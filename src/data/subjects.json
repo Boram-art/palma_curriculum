@@ -1,0 +1,7863 @@
+[
+  {
+    "name": "공통국어1",
+    "subjectGroup": "국어",
+    "type": "공통",
+    "category": "학교지정",
+    "baseCredit": 4,
+    "opCredit": 4,
+    "semesters": [
+      "1-1"
+    ],
+    "selectionGroup": "",
+    "targetGrades": [
+      "2026 신입생",
+      "2025 신입생"
+    ],
+    "description": "다양한 유형의 글을 비판적으로 읽고, 자신의 생각을 논리적으로 표현하는 능력을 기르는 공통 국어 과목입니다.",
+    "relatedMajors": "",
+    "relatedJobs": "",
+    "recommendingUniversities": [],
+    "id": 1
+  },
+  {
+    "name": "공통국어2",
+    "subjectGroup": "국어",
+    "type": "공통",
+    "category": "학교지정",
+    "baseCredit": 4,
+    "opCredit": 4,
+    "semesters": [
+      "1-1",
+      "2-1"
+    ],
+    "selectionGroup": "",
+    "targetGrades": [
+      "2026 신입생",
+      "2025 신입생"
+    ],
+    "description": "문학 작품 감상과 다양한 의사소통 상황에서의 국어 능력을 심화하는 공통 국어 과목입니다.",
+    "relatedMajors": "",
+    "relatedJobs": "",
+    "recommendingUniversities": [],
+    "id": 2
+  },
+  {
+    "name": "문학",
+    "subjectGroup": "국어",
+    "type": "일반",
+    "category": "학교지정",
+    "baseCredit": 4,
+    "opCredit": 4,
+    "semesters": [
+      "1-1",
+      "2-2"
+    ],
+    "selectionGroup": "",
+    "targetGrades": [
+      "2026 신입생",
+      "2025 신입생"
+    ],
+    "description": "한국 문학과 세계 문학의 다양한 작품을 깊이 있게 감상하고 비평하는 능력을 기릅니다.",
+    "relatedMajors": "",
+    "relatedJobs": "",
+    "recommendingUniversities": [],
+    "id": 3
+  },
+  {
+    "name": "독서와 작문",
+    "subjectGroup": "국어",
+    "type": "일반",
+    "category": "학교지정",
+    "baseCredit": 4,
+    "opCredit": 4,
+    "semesters": [
+      "1-1",
+      "3-1"
+    ],
+    "selectionGroup": "",
+    "targetGrades": [
+      "2026 신입생",
+      "2025 신입생"
+    ],
+    "description": "다양한 분야의 글을 능동적으로 읽고, 목적과 맥락에 맞는 글을 쓰는 능력을 기릅니다.",
+    "relatedMajors": "",
+    "relatedJobs": "",
+    "recommendingUniversities": [],
+    "id": 4
+  },
+  {
+    "name": "공통수학1",
+    "subjectGroup": "수학",
+    "type": "공통",
+    "category": "학교지정",
+    "baseCredit": 4,
+    "opCredit": 4,
+    "semesters": [
+      "1-1",
+      "1-2"
+    ],
+    "selectionGroup": "",
+    "targetGrades": [
+      "2026 신입생",
+      "2025 신입생"
+    ],
+    "description": "수와 식, 방정식과 부등식, 함수의 기초 개념을 학습하는 공통 수학 과목입니다.",
+    "relatedMajors": "",
+    "relatedJobs": "",
+    "recommendingUniversities": [],
+    "id": 5
+  },
+  {
+    "name": "공통수학2",
+    "subjectGroup": "수학",
+    "type": "공통",
+    "category": "학교지정",
+    "baseCredit": 4,
+    "opCredit": 4,
+    "semesters": [
+      "1-1",
+      "2-1"
+    ],
+    "selectionGroup": "",
+    "targetGrades": [
+      "2026 신입생",
+      "2025 신입생"
+    ],
+    "description": "도형, 확률과 통계의 기초를 학습하는 공통 수학 과목입니다.",
+    "relatedMajors": "",
+    "relatedJobs": "",
+    "recommendingUniversities": [],
+    "id": 6
+  },
+  {
+    "name": "대수",
+    "subjectGroup": "수학",
+    "type": "일반",
+    "category": "학교지정",
+    "baseCredit": 4,
+    "opCredit": 4,
+    "semesters": [
+      "1-1",
+      "2-2"
+    ],
+    "selectionGroup": "",
+    "targetGrades": [
+      "2026 신입생",
+      "2025 신입생"
+    ],
+    "description": "다항식, 방정식, 부등식, 행렬 등 대수적 구조와 연산을 탐구하는 일반 선택 과목입니다.",
+    "relatedMajors": "",
+    "relatedJobs": "",
+    "recommendingUniversities": [
+      {
+        "university": "광운대",
+        "field": "사회 > 경영"
+      },
+      {
+        "university": "광운대",
+        "field": "사회 > 심리"
+      },
+      {
+        "university": "광운대",
+        "field": "자연 > 물리"
+      },
+      {
+        "university": "광운대",
+        "field": "공학 > 기계공학"
+      },
+      {
+        "university": "단국대",
+        "field": "인문 > 영어영문"
+      },
+      {
+        "university": "단국대",
+        "field": "인문 > 철학"
+      },
+      {
+        "university": "단국대",
+        "field": "사회 > 경영"
+      },
+      {
+        "university": "단국대",
+        "field": "교육 > 국어교육"
+      },
+      {
+        "university": "단국대",
+        "field": "교육 > 수학교육"
+      },
+      {
+        "university": "단국대",
+        "field": "공학 > 기계공학"
+      },
+      {
+        "university": "덕성여대",
+        "field": "의약 > 약학"
+      },
+      {
+        "university": "동국대",
+        "field": "사회 > 경영"
+      },
+      {
+        "university": "동국대",
+        "field": "교육 > 수학교육"
+      },
+      {
+        "university": "동국대",
+        "field": "자연 > 생명과학"
+      },
+      {
+        "university": "동국대",
+        "field": "자연 > 물리"
+      },
+      {
+        "university": "동국대",
+        "field": "공학 > 기계공학"
+      },
+      {
+        "university": "동국대",
+        "field": "의약 > 약학"
+      },
+      {
+        "university": "서울시립대",
+        "field": "인문 > 영어영문"
+      },
+      {
+        "university": "서울시립대",
+        "field": "인문 > 철학"
+      },
+      {
+        "university": "서울시립대",
+        "field": "사회 > 경영"
+      },
+      {
+        "university": "서울시립대",
+        "field": "자연 > 물리"
+      },
+      {
+        "university": "숭실대",
+        "field": "사회 > 경영"
+      },
+      {
+        "university": "숭실대",
+        "field": "자연 > 생명과학"
+      },
+      {
+        "university": "숭실대",
+        "field": "자연 > 물리"
+      },
+      {
+        "university": "영남대",
+        "field": "사회 > 경영"
+      },
+      {
+        "university": "영남대",
+        "field": "사회 > 심리"
+      },
+      {
+        "university": "영남대",
+        "field": "교육 > 수학교육"
+      },
+      {
+        "university": "영남대",
+        "field": "자연 > 생명과학"
+      },
+      {
+        "university": "영남대",
+        "field": "자연 > 물리"
+      },
+      {
+        "university": "영남대",
+        "field": "공학 > 기계공학"
+      },
+      {
+        "university": "영남대",
+        "field": "의약 > 약학"
+      },
+      {
+        "university": "영남대",
+        "field": "의약 > 의예"
+      },
+      {
+        "university": "전남대",
+        "field": "사회 > 경영"
+      },
+      {
+        "university": "전남대",
+        "field": "교육 > 수학교육"
+      },
+      {
+        "university": "전남대",
+        "field": "자연 > 물리"
+      },
+      {
+        "university": "전남대",
+        "field": "공학 > 기계공학"
+      },
+      {
+        "university": "전남대",
+        "field": "의약 > 의예"
+      },
+      {
+        "university": "전북대",
+        "field": "교육 > 수학교육"
+      },
+      {
+        "university": "전북대",
+        "field": "자연 > 생명과학"
+      },
+      {
+        "university": "전북대",
+        "field": "자연 > 물리"
+      },
+      {
+        "university": "전북대",
+        "field": "공학 > 기계공학"
+      },
+      {
+        "university": "전북대",
+        "field": "의약 > 의예"
+      },
+      {
+        "university": "조선대",
+        "field": "사회 > 경영"
+      },
+      {
+        "university": "조선대",
+        "field": "교육 > 수학교육"
+      },
+      {
+        "university": "조선대",
+        "field": "공학 > 기계공학"
+      },
+      {
+        "university": "조선대",
+        "field": "의약 > 의예"
+      },
+      {
+        "university": "충북대",
+        "field": "사회 > 심리"
+      },
+      {
+        "university": "충북대",
+        "field": "교육 > 수학교육"
+      },
+      {
+        "university": "충북대",
+        "field": "자연 > 물리"
+      },
+      {
+        "university": "충북대",
+        "field": "공학 > 기계공학"
+      },
+      {
+        "university": "건국대",
+        "field": "공학 > 기계공학"
+      },
+      {
+        "university": "건국대",
+        "field": "의약 > 의예"
+      },
+      {
+        "university": "동아대",
+        "field": "사회 > 경영"
+      },
+      {
+        "university": "동아대",
+        "field": "자연 > 물리"
+      },
+      {
+        "university": "동아대",
+        "field": "공학 > 기계공학"
+      },
+      {
+        "university": "동아대",
+        "field": "의약 > 의예"
+      },
+      {
+        "university": "충남대",
+        "field": "교육 > 수학교육"
+      },
+      {
+        "university": "충남대",
+        "field": "자연 > 생명과학"
+      },
+      {
+        "university": "충남대",
+        "field": "자연 > 물리"
+      },
+      {
+        "university": "충남대",
+        "field": "공학 > 기계공학"
+      },
+      {
+        "university": "충남대",
+        "field": "의약 > 의예"
+      },
+      {
+        "university": "아주대",
+        "field": "사회 > 경영"
+      },
+      {
+        "university": "아주대",
+        "field": "사회 > 심리"
+      },
+      {
+        "university": "아주대",
+        "field": "자연 > 물리"
+      },
+      {
+        "university": "아주대",
+        "field": "공학 > 기계공학"
+      },
+      {
+        "university": "아주대",
+        "field": "의약 > 의예"
+      },
+      {
+        "university": "서울과기대",
+        "field": "사회 > 경영"
+      },
+      {
+        "university": "서울과기대",
+        "field": "자연 > 생명과학"
+      },
+      {
+        "university": "서울과기대",
+        "field": "자연 > 물리"
+      },
+      {
+        "university": "서울과기대",
+        "field": "공학 > 기계공학"
+      },
+      {
+        "university": "전주대",
+        "field": "교육 > 수학교육"
+      },
+      {
+        "university": "전주대",
+        "field": "공학 > 기계공학"
+      },
+      {
+        "university": "한국기술교육대",
+        "field": "사회 > 경영"
+      },
+      {
+        "university": "한국기술교육대",
+        "field": "공학 > 기계공학"
+      },
+      {
+        "university": "한국항공대",
+        "field": "사회 > 경영"
+      },
+      {
+        "university": "한국항공대",
+        "field": "공학 > 기계공학"
+      },
+      {
+        "university": "가톨릭대",
+        "field": "자연 > 물리"
+      },
+      {
+        "university": "가톨릭대",
+        "field": "공학 > 기계공학"
+      },
+      {
+        "university": "가톨릭대",
+        "field": "의약 > 약학"
+      },
+      {
+        "university": "가톨릭대",
+        "field": "의약 > 의예"
+      },
+      {
+        "university": "경북대",
+        "field": "교육 > 수학교육"
+      },
+      {
+        "university": "경북대",
+        "field": "자연 > 물리"
+      },
+      {
+        "university": "경북대",
+        "field": "공학 > 기계공학"
+      },
+      {
+        "university": "경북대",
+        "field": "의약 > 약학"
+      },
+      {
+        "university": "경북대",
+        "field": "의약 > 의예"
+      },
+      {
+        "university": "경희대",
+        "field": "자연 > 생명과학"
+      },
+      {
+        "university": "경희대",
+        "field": "자연 > 물리"
+      },
+      {
+        "university": "경희대",
+        "field": "공학 > 기계공학"
+      },
+      {
+        "university": "경희대",
+        "field": "의약 > 약학"
+      },
+      {
+        "university": "경희대",
+        "field": "의약 > 의예"
+      },
+      {
+        "university": "국민대",
+        "field": "자연 > 물리"
+      },
+      {
+        "university": "원광대",
+        "field": "공학 > 기계공학"
+      },
+      {
+        "university": "원광대",
+        "field": "의약 > 의예"
+      }
+    ],
+    "id": 7
+  },
+  {
+    "name": "미적분Ⅰ",
+    "subjectGroup": "수학",
+    "type": "일반",
+    "category": "학교지정",
+    "baseCredit": 4,
+    "opCredit": 4,
+    "semesters": [
+      "1-1",
+      "3-1"
+    ],
+    "selectionGroup": "",
+    "targetGrades": [
+      "2026 신입생",
+      "2025 신입생"
+    ],
+    "description": "함수의 극한, 미분법, 적분법의 기본 개념을 학습합니다.",
+    "relatedMajors": "",
+    "relatedJobs": "",
+    "recommendingUniversities": [
+      {
+        "university": "강원대",
+        "field": "사회 > 경영"
+      },
+      {
+        "university": "강원대",
+        "field": "교육 > 수학교육"
+      },
+      {
+        "university": "강원대",
+        "field": "자연 > 물리"
+      },
+      {
+        "university": "강원대",
+        "field": "공학 > 기계공학"
+      },
+      {
+        "university": "강원대",
+        "field": "의약 > 약학"
+      },
+      {
+        "university": "강원대",
+        "field": "의약 > 의예"
+      },
+      {
+        "university": "광운대",
+        "field": "사회 > 경영"
+      },
+      {
+        "university": "광운대",
+        "field": "사회 > 심리"
+      },
+      {
+        "university": "단국대",
+        "field": "인문 > 영어영문"
+      },
+      {
+        "university": "단국대",
+        "field": "인문 > 철학"
+      },
+      {
+        "university": "단국대",
+        "field": "사회 > 경영"
+      },
+      {
+        "university": "단국대",
+        "field": "교육 > 국어교육"
+      },
+      {
+        "university": "동국대",
+        "field": "사회 > 경영"
+      },
+      {
+        "university": "서울대",
+        "field": "교육 > 수학교육"
+      },
+      {
+        "university": "서울대",
+        "field": "자연 > 생명과학"
+      },
+      {
+        "university": "서울시립대",
+        "field": "인문 > 영어영문"
+      },
+      {
+        "university": "서울시립대",
+        "field": "인문 > 철학"
+      },
+      {
+        "university": "서울시립대",
+        "field": "공학 > 기계공학"
+      },
+      {
+        "university": "숭실대",
+        "field": "사회 > 경영"
+      },
+      {
+        "university": "영남대",
+        "field": "사회 > 경영"
+      },
+      {
+        "university": "영남대",
+        "field": "사회 > 심리"
+      },
+      {
+        "university": "전남대",
+        "field": "사회 > 경영"
+      },
+      {
+        "university": "충북대",
+        "field": "공학 > 기계공학"
+      },
+      {
+        "university": "건국대",
+        "field": "공학 > 기계공학"
+      },
+      {
+        "university": "동아대",
+        "field": "예체능 > 체육"
+      },
+      {
+        "university": "충남대",
+        "field": "자연 > 생명과학"
+      },
+      {
+        "university": "충남대",
+        "field": "공학 > 기계공학"
+      },
+      {
+        "university": "부산대",
+        "field": "사회 > 경영"
+      },
+      {
+        "university": "아주대",
+        "field": "사회 > 경영"
+      },
+      {
+        "university": "아주대",
+        "field": "사회 > 심리"
+      },
+      {
+        "university": "서울과기대",
+        "field": "사회 > 경영"
+      },
+      {
+        "university": "서울과기대",
+        "field": "자연 > 물리"
+      },
+      {
+        "university": "전주대",
+        "field": "공학 > 기계공학"
+      },
+      {
+        "university": "한국기술교육대",
+        "field": "사회 > 경영"
+      },
+      {
+        "university": "한국항공대",
+        "field": "사회 > 경영"
+      },
+      {
+        "university": "경북대",
+        "field": "자연 > 생명과학"
+      },
+      {
+        "university": "경북대",
+        "field": "자연 > 물리"
+      },
+      {
+        "university": "경북대",
+        "field": "의약 > 약학"
+      },
+      {
+        "university": "경북대",
+        "field": "의약 > 의예"
+      },
+      {
+        "university": "경희대",
+        "field": "자연 > 생명과학"
+      },
+      {
+        "university": "경희대",
+        "field": "의약 > 약학"
+      },
+      {
+        "university": "경희대",
+        "field": "의약 > 의예"
+      },
+      {
+        "university": "국민대",
+        "field": "자연 > 물리"
+      },
+      {
+        "university": "국민대",
+        "field": "공학 > 기계공학"
+      }
+    ],
+    "id": 8
+  },
+  {
+    "name": "공통영어1",
+    "subjectGroup": "영어",
+    "type": "공통",
+    "category": "학교지정",
+    "baseCredit": 4,
+    "opCredit": 4,
+    "semesters": [
+      "1-1",
+      "1-2"
+    ],
+    "selectionGroup": "",
+    "targetGrades": [
+      "2026 신입생",
+      "2025 신입생"
+    ],
+    "description": "일상적 주제에 대해 영어로 의사소통하는 기본 능력을 기르는 공통 영어 과목입니다.",
+    "relatedMajors": "",
+    "relatedJobs": "",
+    "recommendingUniversities": [],
+    "id": 9
+  },
+  {
+    "name": "공통영어2",
+    "subjectGroup": "영어",
+    "type": "공통",
+    "category": "학교지정",
+    "baseCredit": 4,
+    "opCredit": 4,
+    "semesters": [
+      "1-1",
+      "2-1"
+    ],
+    "selectionGroup": "",
+    "targetGrades": [
+      "2026 신입생",
+      "2025 신입생"
+    ],
+    "description": "다양한 주제의 영어 텍스트를 이해하고 표현하는 능력을 심화하는 공통 영어 과목입니다.",
+    "relatedMajors": "",
+    "relatedJobs": "",
+    "recommendingUniversities": [],
+    "id": 10
+  },
+  {
+    "name": "영어Ⅰ",
+    "subjectGroup": "영어",
+    "type": "일반",
+    "category": "학교지정",
+    "baseCredit": 4,
+    "opCredit": 4,
+    "semesters": [
+      "1-1",
+      "2-2"
+    ],
+    "selectionGroup": "",
+    "targetGrades": [
+      "2026 신입생",
+      "2025 신입생"
+    ],
+    "description": "다양한 주제에 대한 영어 듣기, 읽기, 말하기, 쓰기 능력을 기릅니다.",
+    "relatedMajors": "",
+    "relatedJobs": "",
+    "recommendingUniversities": [],
+    "id": 11
+  },
+  {
+    "name": "영어Ⅱ",
+    "subjectGroup": "영어",
+    "type": "일반",
+    "category": "학교지정",
+    "baseCredit": 4,
+    "opCredit": 4,
+    "semesters": [
+      "1-1",
+      "3-1"
+    ],
+    "selectionGroup": "",
+    "targetGrades": [
+      "2026 신입생",
+      "2025 신입생"
+    ],
+    "description": "학술적·전문적 주제의 영어를 이해하고 표현하는 심화 능력을 기릅니다.",
+    "relatedMajors": "",
+    "relatedJobs": "",
+    "recommendingUniversities": [],
+    "id": 12
+  },
+  {
+    "name": "한국사1",
+    "subjectGroup": "사회",
+    "type": "공통",
+    "category": "학교지정",
+    "baseCredit": 3,
+    "opCredit": 3,
+    "semesters": [
+      "1-1",
+      "1-2"
+    ],
+    "selectionGroup": "",
+    "targetGrades": [
+      "2026 신입생",
+      "2025 신입생"
+    ],
+    "description": "선사 시대부터 조선 전기까지 한국사의 주요 사건과 흐름을 학습합니다.",
+    "relatedMajors": "",
+    "relatedJobs": "",
+    "recommendingUniversities": [],
+    "id": 13
+  },
+  {
+    "name": "한국사2",
+    "subjectGroup": "사회",
+    "type": "공통",
+    "category": "학교지정",
+    "baseCredit": 3,
+    "opCredit": 3,
+    "semesters": [
+      "1-1",
+      "2-1"
+    ],
+    "selectionGroup": "",
+    "targetGrades": [
+      "2026 신입생",
+      "2025 신입생"
+    ],
+    "description": "조선 후기부터 현대까지 한국사의 주요 사건과 흐름을 학습합니다.",
+    "relatedMajors": "",
+    "relatedJobs": "",
+    "recommendingUniversities": [],
+    "id": 14
+  },
+  {
+    "name": "통합사회1",
+    "subjectGroup": "사회",
+    "type": "공통",
+    "category": "학교지정",
+    "baseCredit": 4,
+    "opCredit": 4,
+    "semesters": [
+      "1-1",
+      "1-2"
+    ],
+    "selectionGroup": "",
+    "targetGrades": [
+      "2026 신입생",
+      "2025 신입생"
+    ],
+    "description": "인간, 사회, 환경의 통합적 관점에서 시사 문제를 탐구하는 공통 과목입니다.",
+    "relatedMajors": "",
+    "relatedJobs": "",
+    "recommendingUniversities": [],
+    "id": 15
+  },
+  {
+    "name": "통합사회2",
+    "subjectGroup": "사회",
+    "type": "공통",
+    "category": "학교지정",
+    "baseCredit": 4,
+    "opCredit": 4,
+    "semesters": [
+      "1-1",
+      "2-1"
+    ],
+    "selectionGroup": "",
+    "targetGrades": [
+      "2026 신입생",
+      "2025 신입생"
+    ],
+    "description": "정의, 인권, 문화 등 사회 핵심 주제를 통합적으로 탐구하는 공통 과목입니다.",
+    "relatedMajors": "",
+    "relatedJobs": "",
+    "recommendingUniversities": [],
+    "id": 16
+  },
+  {
+    "name": "통합과학1",
+    "subjectGroup": "과학",
+    "type": "공통",
+    "category": "학교지정",
+    "baseCredit": 4,
+    "opCredit": 4,
+    "semesters": [
+      "1-1",
+      "1-2"
+    ],
+    "selectionGroup": "",
+    "targetGrades": [
+      "2026 신입생",
+      "2025 신입생"
+    ],
+    "description": "물질, 에너지, 생명, 지구 등 자연 현상을 통합적으로 탐구하는 공통 과목입니다.",
+    "relatedMajors": "",
+    "relatedJobs": "",
+    "recommendingUniversities": [],
+    "id": 17
+  },
+  {
+    "name": "통합과학2",
+    "subjectGroup": "과학",
+    "type": "공통",
+    "category": "학교지정",
+    "baseCredit": 4,
+    "opCredit": 4,
+    "semesters": [
+      "1-1",
+      "2-1"
+    ],
+    "selectionGroup": "",
+    "targetGrades": [
+      "2026 신입생",
+      "2025 신입생"
+    ],
+    "description": "환경, 기후, 에너지 문제를 과학적 관점에서 통합적으로 탐구합니다.",
+    "relatedMajors": "",
+    "relatedJobs": "",
+    "recommendingUniversities": [],
+    "id": 18
+  },
+  {
+    "name": "과학탐구실험1",
+    "subjectGroup": "과학",
+    "type": "공통",
+    "category": "학교지정",
+    "baseCredit": 1,
+    "opCredit": 1,
+    "semesters": [
+      "1-1",
+      "1-2"
+    ],
+    "selectionGroup": "",
+    "targetGrades": [
+      "2026 신입생",
+      "2025 신입생"
+    ],
+    "description": "기본적인 과학 탐구 방법을 배우고 실험을 수행하는 공통 과목입니다.",
+    "relatedMajors": "",
+    "relatedJobs": "",
+    "recommendingUniversities": [],
+    "id": 19
+  },
+  {
+    "name": "과학탐구실험2",
+    "subjectGroup": "과학",
+    "type": "공통",
+    "category": "학교지정",
+    "baseCredit": 1,
+    "opCredit": 1,
+    "semesters": [
+      "1-1",
+      "2-1"
+    ],
+    "selectionGroup": "",
+    "targetGrades": [
+      "2026 신입생",
+      "2025 신입생"
+    ],
+    "description": "심화된 과학 탐구 실험을 설계하고 수행하는 공통 과목입니다.",
+    "relatedMajors": "",
+    "relatedJobs": "",
+    "recommendingUniversities": [],
+    "id": 20
+  },
+  {
+    "name": "체육1",
+    "subjectGroup": "체육",
+    "type": "일반",
+    "category": "학교지정",
+    "baseCredit": 3,
+    "opCredit": 2,
+    "semesters": [
+      "1-1"
+    ],
+    "selectionGroup": "",
+    "targetGrades": [
+      "2026 신입생",
+      "2025 신입생"
+    ],
+    "description": "다양한 신체 활동을 통해 체력을 기르고 건강한 생활 습관을 형성합니다.",
+    "relatedMajors": "",
+    "relatedJobs": "",
+    "recommendingUniversities": [],
+    "id": 21
+  },
+  {
+    "name": "체육2",
+    "subjectGroup": "체육",
+    "type": "일반",
+    "category": "학교지정",
+    "baseCredit": 3,
+    "opCredit": 2,
+    "semesters": [
+      "1-2"
+    ],
+    "selectionGroup": "",
+    "targetGrades": [
+      "2026 신입생",
+      "2025 신입생"
+    ],
+    "description": "스포츠 참여를 통해 협동심, 페어플레이 등 체육의 가치를 실천합니다.",
+    "relatedMajors": "",
+    "relatedJobs": "",
+    "recommendingUniversities": [],
+    "id": 22
+  },
+  {
+    "name": "스포츠 문화",
+    "subjectGroup": "체육",
+    "type": "진로",
+    "category": "학교지정",
+    "baseCredit": 2,
+    "opCredit": 1,
+    "semesters": [
+      "3-1"
+    ],
+    "selectionGroup": "",
+    "targetGrades": [
+      "2026 신입생",
+      "2025 신입생"
+    ],
+    "description": "스포츠의 역사, 문화적 의미를 이해하고 스포츠 활동에 참여합니다.",
+    "relatedMajors": "",
+    "relatedJobs": "",
+    "recommendingUniversities": [],
+    "id": 23
+  },
+  {
+    "name": "스포츠 과학",
+    "subjectGroup": "체육",
+    "type": "진로",
+    "category": "학교지정",
+    "baseCredit": 2,
+    "opCredit": 1,
+    "semesters": [
+      "3-2"
+    ],
+    "selectionGroup": "",
+    "targetGrades": [
+      "2026 신입생",
+      "2025 신입생"
+    ],
+    "description": "체육과 과학의 연계를 통해 운동 원리를 과학적으로 이해합니다.",
+    "relatedMajors": "",
+    "relatedJobs": "",
+    "recommendingUniversities": [],
+    "id": 24
+  },
+  {
+    "name": "스포츠 생활1",
+    "subjectGroup": "체육",
+    "type": "융합",
+    "category": "학교지정",
+    "baseCredit": 3,
+    "opCredit": 2,
+    "semesters": [
+      "2-1"
+    ],
+    "selectionGroup": "",
+    "targetGrades": [
+      "2026 신입생",
+      "2025 신입생"
+    ],
+    "description": "생활 체육 활동에 참여하며 평생 체육의 기반을 마련합니다.",
+    "relatedMajors": "",
+    "relatedJobs": "",
+    "recommendingUniversities": [],
+    "id": 25
+  },
+  {
+    "name": "스포츠 생활2",
+    "subjectGroup": "체육",
+    "type": "융합",
+    "category": "학교지정",
+    "baseCredit": 3,
+    "opCredit": 2,
+    "semesters": [
+      "2-2"
+    ],
+    "selectionGroup": "",
+    "targetGrades": [
+      "2026 신입생",
+      "2025 신입생"
+    ],
+    "description": "다양한 스포츠 활동을 체험하고 건강한 여가 생활을 실천합니다.",
+    "relatedMajors": "",
+    "relatedJobs": "",
+    "recommendingUniversities": [],
+    "id": 26
+  },
+  {
+    "name": "미술",
+    "subjectGroup": "예술",
+    "type": "일반",
+    "category": "학교지정",
+    "baseCredit": 3,
+    "opCredit": 3,
+    "semesters": [
+      "1-1",
+      "2-2",
+      "3-1"
+    ],
+    "selectionGroup": "[택1]3",
+    "targetGrades": [
+      "2026 신입생",
+      "2025 신입생"
+    ],
+    "description": "미술 작품의 감상과 다양한 표현 활동을 통해 심미적 감성을 기릅니다.",
+    "relatedMajors": "",
+    "relatedJobs": "",
+    "recommendingUniversities": [],
+    "id": 27
+  },
+  {
+    "name": "음악",
+    "subjectGroup": "예술",
+    "type": "일반",
+    "category": "학교지정",
+    "baseCredit": 3,
+    "opCredit": 3,
+    "semesters": [
+      "1-1"
+    ],
+    "selectionGroup": "",
+    "targetGrades": [
+      "2026 신입생",
+      "2025 신입생"
+    ],
+    "description": "다양한 음악을 감상하고 연주·창작 활동을 통해 음악적 소양을 기릅니다.",
+    "relatedMajors": "",
+    "relatedJobs": "",
+    "recommendingUniversities": [],
+    "id": 28
+  },
+  {
+    "name": "음악 감상과 비평",
+    "subjectGroup": "예술",
+    "type": "진로",
+    "category": "학교지정",
+    "baseCredit": 3,
+    "opCredit": 2,
+    "semesters": [
+      "3-1"
+    ],
+    "selectionGroup": "",
+    "targetGrades": [
+      "2026 신입생",
+      "2025 신입생"
+    ],
+    "description": "다양한 시대와 장르의 음악을 감상하고 비평하는 능력을 기릅니다.",
+    "relatedMajors": "",
+    "relatedJobs": "",
+    "recommendingUniversities": [],
+    "id": 29
+  },
+  {
+    "name": "음악과 미디어",
+    "subjectGroup": "예술",
+    "type": "융합",
+    "category": "학교지정",
+    "baseCredit": 3,
+    "opCredit": 2,
+    "semesters": [
+      "3-2"
+    ],
+    "selectionGroup": "",
+    "targetGrades": [
+      "2026 신입생",
+      "2025 신입생"
+    ],
+    "description": "디지털 미디어를 활용한 음악 창작과 표현을 탐구하는 융합 선택 과목입니다.",
+    "relatedMajors": "",
+    "relatedJobs": "",
+    "recommendingUniversities": [],
+    "id": 30
+  },
+  {
+    "name": "기술·가정",
+    "subjectGroup": "기술·가정",
+    "type": "일반",
+    "category": "학교지정",
+    "baseCredit": 4,
+    "opCredit": 3,
+    "semesters": [
+      "1-1",
+      "1-2"
+    ],
+    "selectionGroup": "[택1]3",
+    "targetGrades": [
+      "2026 신입생",
+      "2025 신입생"
+    ],
+    "description": "기술과 가정생활 전반에 대한 이해를 높이고 실생활 문제 해결 능력을 기릅니다.",
+    "relatedMajors": "",
+    "relatedJobs": "",
+    "recommendingUniversities": [],
+    "id": 31
+  },
+  {
+    "name": "한문",
+    "subjectGroup": "제2외국어/한문",
+    "type": "일반",
+    "category": "학교지정",
+    "baseCredit": 4,
+    "opCredit": 3,
+    "semesters": [
+      "1-1",
+      "1-2"
+    ],
+    "selectionGroup": "[택1] 기술·가정/한문",
+    "targetGrades": [
+      "2026 신입생",
+      "2025 신입생"
+    ],
+    "description": "한자와 한문의 기초를 학습하고, 한자 문화권의 언어문화를 이해합니다.",
+    "relatedMajors": "",
+    "relatedJobs": "",
+    "recommendingUniversities": [],
+    "id": 32
+  },
+  {
+    "name": "세계사",
+    "subjectGroup": "사회",
+    "type": "일반",
+    "category": "학생선택(2학년)",
+    "baseCredit": 4,
+    "opCredit": 3,
+    "semesters": [
+      "2-1"
+    ],
+    "selectionGroup": "[택3]",
+    "targetGrades": [
+      "2026 신입생",
+      "2025 신입생"
+    ],
+    "description": "세계 주요 문명의 발전과 교류, 근현대 세계의 변화를 학습합니다.",
+    "relatedMajors": "",
+    "relatedJobs": "",
+    "recommendingUniversities": [
+      {
+        "university": "강원대",
+        "field": "교육 > 국어교육"
+      },
+      {
+        "university": "광운대",
+        "field": "자연 > 물리"
+      },
+      {
+        "university": "덕성여대",
+        "field": "의약 > 약학"
+      },
+      {
+        "university": "동국대",
+        "field": "인문 > 영어영문"
+      },
+      {
+        "university": "동국대",
+        "field": "자연 > 생명과학"
+      },
+      {
+        "university": "동국대",
+        "field": "자연 > 물리"
+      },
+      {
+        "university": "동국대",
+        "field": "의약 > 약학"
+      },
+      {
+        "university": "서울시립대",
+        "field": "자연 > 물리"
+      },
+      {
+        "university": "숭실대",
+        "field": "자연 > 물리"
+      },
+      {
+        "university": "영남대",
+        "field": "사회 > 심리"
+      },
+      {
+        "university": "영남대",
+        "field": "자연 > 생명과학"
+      },
+      {
+        "university": "영남대",
+        "field": "자연 > 물리"
+      },
+      {
+        "university": "영남대",
+        "field": "공학 > 기계공학"
+      },
+      {
+        "university": "영남대",
+        "field": "의약 > 약학"
+      },
+      {
+        "university": "영남대",
+        "field": "의약 > 의예"
+      },
+      {
+        "university": "전남대",
+        "field": "공학 > 기계공학"
+      },
+      {
+        "university": "동아대",
+        "field": "예체능 > 체육"
+      },
+      {
+        "university": "충남대",
+        "field": "공학 > 기계공학"
+      },
+      {
+        "university": "충남대",
+        "field": "의약 > 의예"
+      },
+      {
+        "university": "아주대",
+        "field": "사회 > 경영"
+      },
+      {
+        "university": "서울과기대",
+        "field": "자연 > 생명과학"
+      },
+      {
+        "university": "서울과기대",
+        "field": "공학 > 기계공학"
+      },
+      {
+        "university": "가톨릭대",
+        "field": "의약 > 약학"
+      },
+      {
+        "university": "가톨릭대",
+        "field": "의약 > 의예"
+      },
+      {
+        "university": "경북대",
+        "field": "공학 > 기계공학"
+      },
+      {
+        "university": "경희대",
+        "field": "자연 > 물리"
+      },
+      {
+        "university": "경희대",
+        "field": "공학 > 기계공학"
+      },
+      {
+        "university": "원광대",
+        "field": "공학 > 기계공학"
+      },
+      {
+        "university": "원광대",
+        "field": "의약 > 의예"
+      }
+    ],
+    "id": 33
+  },
+  {
+    "name": "경제",
+    "subjectGroup": "사회",
+    "type": "진로",
+    "category": "학생선택(2학년)",
+    "baseCredit": 4,
+    "opCredit": 3,
+    "semesters": [],
+    "selectionGroup": "",
+    "targetGrades": [
+      "2026 신입생"
+    ],
+    "description": "경제 원리를 이해하고 합리적 경제 활동과 의사결정 능력을 기릅니다.",
+    "relatedMajors": "",
+    "relatedJobs": "",
+    "recommendingUniversities": [
+      {
+        "university": "강원대",
+        "field": "사회 > 심리"
+      },
+      {
+        "university": "광운대",
+        "field": "인문 > 영어영문"
+      },
+      {
+        "university": "광운대",
+        "field": "사회 > 경영"
+      },
+      {
+        "university": "광운대",
+        "field": "사회 > 심리"
+      },
+      {
+        "university": "광운대",
+        "field": "자연 > 물리"
+      },
+      {
+        "university": "광운대",
+        "field": "공학 > 기계공학"
+      },
+      {
+        "university": "단국대",
+        "field": "교육 > 수학교육"
+      },
+      {
+        "university": "단국대",
+        "field": "공학 > 기계공학"
+      },
+      {
+        "university": "덕성여대",
+        "field": "인문 > 영어영문"
+      },
+      {
+        "university": "동국대",
+        "field": "인문 > 영어영문"
+      },
+      {
+        "university": "동국대",
+        "field": "사회 > 경영"
+      },
+      {
+        "university": "동국대",
+        "field": "교육 > 국어교육"
+      },
+      {
+        "university": "동국대",
+        "field": "자연 > 생명과학"
+      },
+      {
+        "university": "동국대",
+        "field": "자연 > 물리"
+      },
+      {
+        "university": "숭실대",
+        "field": "인문 > 영어영문"
+      },
+      {
+        "university": "숭실대",
+        "field": "인문 > 철학"
+      },
+      {
+        "university": "숭실대",
+        "field": "사회 > 경영"
+      },
+      {
+        "university": "숭실대",
+        "field": "자연 > 물리"
+      },
+      {
+        "university": "영남대",
+        "field": "인문 > 영어영문"
+      },
+      {
+        "university": "영남대",
+        "field": "인문 > 철학"
+      },
+      {
+        "university": "영남대",
+        "field": "사회 > 경영"
+      },
+      {
+        "university": "영남대",
+        "field": "사회 > 심리"
+      },
+      {
+        "university": "영남대",
+        "field": "교육 > 국어교육"
+      },
+      {
+        "university": "영남대",
+        "field": "교육 > 수학교육"
+      },
+      {
+        "university": "영남대",
+        "field": "자연 > 생명과학"
+      },
+      {
+        "university": "영남대",
+        "field": "자연 > 물리"
+      },
+      {
+        "university": "영남대",
+        "field": "공학 > 기계공학"
+      },
+      {
+        "university": "영남대",
+        "field": "의약 > 약학"
+      },
+      {
+        "university": "영남대",
+        "field": "의약 > 의예"
+      },
+      {
+        "university": "전남대",
+        "field": "인문 > 영어영문"
+      },
+      {
+        "university": "전남대",
+        "field": "사회 > 심리"
+      },
+      {
+        "university": "전남대",
+        "field": "자연 > 물리"
+      },
+      {
+        "university": "전남대",
+        "field": "공학 > 기계공학"
+      },
+      {
+        "university": "전북대",
+        "field": "자연 > 생명과학"
+      },
+      {
+        "university": "전북대",
+        "field": "자연 > 물리"
+      },
+      {
+        "university": "전북대",
+        "field": "공학 > 기계공학"
+      },
+      {
+        "university": "조선대",
+        "field": "공학 > 기계공학"
+      },
+      {
+        "university": "조선대",
+        "field": "의약 > 의예"
+      },
+      {
+        "university": "조선대",
+        "field": "예체능 > 시각디자인"
+      },
+      {
+        "university": "충북대",
+        "field": "인문 > 영어영문"
+      },
+      {
+        "university": "충북대",
+        "field": "인문 > 철학"
+      },
+      {
+        "university": "충북대",
+        "field": "교육 > 수학교육"
+      },
+      {
+        "university": "충북대",
+        "field": "자연 > 물리"
+      },
+      {
+        "university": "충북대",
+        "field": "공학 > 기계공학"
+      },
+      {
+        "university": "건국대",
+        "field": "인문 > 철학"
+      },
+      {
+        "university": "동아대",
+        "field": "인문 > 철학"
+      },
+      {
+        "university": "동아대",
+        "field": "자연 > 물리"
+      },
+      {
+        "university": "동아대",
+        "field": "공학 > 기계공학"
+      },
+      {
+        "university": "동아대",
+        "field": "의약 > 의예"
+      },
+      {
+        "university": "동아대",
+        "field": "예체능 > 체육"
+      },
+      {
+        "university": "충남대",
+        "field": "사회 > 경영"
+      },
+      {
+        "university": "충남대",
+        "field": "사회 > 심리"
+      },
+      {
+        "university": "충남대",
+        "field": "교육 > 국어교육"
+      },
+      {
+        "university": "충남대",
+        "field": "교육 > 수학교육"
+      },
+      {
+        "university": "충남대",
+        "field": "자연 > 물리"
+      },
+      {
+        "university": "국립한밭대",
+        "field": "사회 > 경영"
+      },
+      {
+        "university": "아주대",
+        "field": "사회 > 경영"
+      },
+      {
+        "university": "아주대",
+        "field": "사회 > 심리"
+      },
+      {
+        "university": "아주대",
+        "field": "자연 > 물리"
+      },
+      {
+        "university": "아주대",
+        "field": "공학 > 기계공학"
+      },
+      {
+        "university": "아주대",
+        "field": "의약 > 의예"
+      },
+      {
+        "university": "서울과기대",
+        "field": "자연 > 생명과학"
+      },
+      {
+        "university": "서울과기대",
+        "field": "공학 > 기계공학"
+      },
+      {
+        "university": "한국기술교육대",
+        "field": "공학 > 기계공학"
+      },
+      {
+        "university": "한국항공대",
+        "field": "공학 > 기계공학"
+      },
+      {
+        "university": "가톨릭대",
+        "field": "자연 > 물리"
+      },
+      {
+        "university": "가톨릭대",
+        "field": "공학 > 기계공학"
+      },
+      {
+        "university": "경북대",
+        "field": "자연 > 물리"
+      },
+      {
+        "university": "경북대",
+        "field": "공학 > 기계공학"
+      },
+      {
+        "university": "경희대",
+        "field": "자연 > 물리"
+      },
+      {
+        "university": "경희대",
+        "field": "공학 > 기계공학"
+      }
+    ],
+    "id": 34
+  },
+  {
+    "name": "세계시민과 지리",
+    "subjectGroup": "사회",
+    "type": "일반",
+    "category": "학생선택(2학년)",
+    "baseCredit": 4,
+    "opCredit": 3,
+    "semesters": [],
+    "selectionGroup": "",
+    "targetGrades": [
+      "2026 신입생",
+      "2025 신입생"
+    ],
+    "description": "세계화 시대의 지리적 쟁점을 글로벌 시민 관점에서 탐구합니다.",
+    "relatedMajors": "",
+    "relatedJobs": "",
+    "recommendingUniversities": [
+      {
+        "university": "광운대",
+        "field": "사회 > 경영"
+      },
+      {
+        "university": "광운대",
+        "field": "자연 > 물리"
+      },
+      {
+        "university": "덕성여대",
+        "field": "의약 > 약학"
+      },
+      {
+        "university": "동국대",
+        "field": "자연 > 생명과학"
+      },
+      {
+        "university": "동국대",
+        "field": "의약 > 약학"
+      },
+      {
+        "university": "숭실대",
+        "field": "자연 > 생명과학"
+      },
+      {
+        "university": "영남대",
+        "field": "자연 > 생명과학"
+      },
+      {
+        "university": "영남대",
+        "field": "자연 > 물리"
+      },
+      {
+        "university": "영남대",
+        "field": "의약 > 약학"
+      },
+      {
+        "university": "영남대",
+        "field": "의약 > 의예"
+      },
+      {
+        "university": "전남대",
+        "field": "공학 > 기계공학"
+      },
+      {
+        "university": "전남대",
+        "field": "의약 > 의예"
+      },
+      {
+        "university": "건국대",
+        "field": "의약 > 의예"
+      },
+      {
+        "university": "충남대",
+        "field": "공학 > 기계공학"
+      },
+      {
+        "university": "충남대",
+        "field": "의약 > 의예"
+      },
+      {
+        "university": "서울과기대",
+        "field": "자연 > 생명과학"
+      },
+      {
+        "university": "가톨릭대",
+        "field": "의약 > 약학"
+      },
+      {
+        "university": "가톨릭대",
+        "field": "의약 > 의예"
+      },
+      {
+        "university": "경희대",
+        "field": "자연 > 물리"
+      },
+      {
+        "university": "원광대",
+        "field": "공학 > 기계공학"
+      },
+      {
+        "university": "원광대",
+        "field": "의약 > 의예"
+      }
+    ],
+    "id": 35
+  },
+  {
+    "name": "물리학",
+    "subjectGroup": "과학",
+    "type": "일반",
+    "category": "학생선택(2학년)",
+    "baseCredit": 4,
+    "opCredit": 3,
+    "semesters": [],
+    "selectionGroup": "",
+    "targetGrades": [
+      "2026 신입생",
+      "2025 신입생"
+    ],
+    "description": "역학, 전자기, 파동, 열 등 물리학의 기본 원리를 학습합니다.",
+    "relatedMajors": "",
+    "relatedJobs": "",
+    "recommendingUniversities": [
+      {
+        "university": "강원대",
+        "field": "자연 > 물리"
+      },
+      {
+        "university": "강원대",
+        "field": "공학 > 기계공학"
+      },
+      {
+        "university": "서울대",
+        "field": "교육 > 수학교육"
+      },
+      {
+        "university": "서울대",
+        "field": "자연 > 물리"
+      },
+      {
+        "university": "서울대",
+        "field": "공학 > 기계공학"
+      },
+      {
+        "university": "서울시립대",
+        "field": "공학 > 기계공학"
+      },
+      {
+        "university": "숭실대",
+        "field": "공학 > 기계공학"
+      },
+      {
+        "university": "전북대",
+        "field": "공학 > 기계공학"
+      },
+      {
+        "university": "조선대",
+        "field": "예체능 > 시각디자인"
+      },
+      {
+        "university": "충북대",
+        "field": "공학 > 기계공학"
+      },
+      {
+        "university": "충북대",
+        "field": "의약 > 의예"
+      },
+      {
+        "university": "건국대",
+        "field": "공학 > 기계공학"
+      },
+      {
+        "university": "동아대",
+        "field": "자연 > 생명과학"
+      },
+      {
+        "university": "충남대",
+        "field": "공학 > 기계공학"
+      },
+      {
+        "university": "부산대",
+        "field": "자연 > 물리"
+      },
+      {
+        "university": "부산대",
+        "field": "공학 > 기계공학"
+      },
+      {
+        "university": "서울과기대",
+        "field": "자연 > 물리"
+      },
+      {
+        "university": "경북대",
+        "field": "의약 > 약학"
+      },
+      {
+        "university": "경북대",
+        "field": "의약 > 의예"
+      },
+      {
+        "university": "고려대",
+        "field": "자연 > 물리"
+      },
+      {
+        "university": "고려대",
+        "field": "공학 > 기계공학"
+      },
+      {
+        "university": "경희대",
+        "field": "의약 > 의예"
+      },
+      {
+        "university": "중앙대",
+        "field": "자연 > 물리"
+      },
+      {
+        "university": "중앙대",
+        "field": "공학 > 기계공학"
+      },
+      {
+        "university": "국민대",
+        "field": "자연 > 물리"
+      },
+      {
+        "university": "국민대",
+        "field": "공학 > 기계공학"
+      },
+      {
+        "university": "인하대",
+        "field": "자연 > 물리"
+      },
+      {
+        "university": "인하대",
+        "field": "공학 > 기계공학"
+      },
+      {
+        "university": "경기대",
+        "field": "자연 > 물리"
+      }
+    ],
+    "id": 36
+  },
+  {
+    "name": "화학",
+    "subjectGroup": "과학",
+    "type": "일반",
+    "category": "학생선택(2학년)",
+    "baseCredit": 4,
+    "opCredit": 3,
+    "semesters": [],
+    "selectionGroup": "",
+    "targetGrades": [
+      "2026 신입생",
+      "2025 신입생"
+    ],
+    "description": "물질의 구조, 화학 결합, 화학 반응의 원리를 학습합니다.",
+    "relatedMajors": "",
+    "relatedJobs": "",
+    "recommendingUniversities": [
+      {
+        "university": "강원대",
+        "field": "자연 > 생명과학"
+      },
+      {
+        "university": "강원대",
+        "field": "자연 > 물리"
+      },
+      {
+        "university": "강원대",
+        "field": "공학 > 기계공학"
+      },
+      {
+        "university": "강원대",
+        "field": "의약 > 약학"
+      },
+      {
+        "university": "강원대",
+        "field": "의약 > 의예"
+      },
+      {
+        "university": "서울대",
+        "field": "자연 > 물리"
+      },
+      {
+        "university": "서울대",
+        "field": "의약 > 약학"
+      },
+      {
+        "university": "서울시립대",
+        "field": "자연 > 생명과학"
+      },
+      {
+        "university": "영남대",
+        "field": "인문 > 철학"
+      },
+      {
+        "university": "영남대",
+        "field": "사회 > 경영"
+      },
+      {
+        "university": "전남대",
+        "field": "자연 > 물리"
+      },
+      {
+        "university": "충북대",
+        "field": "인문 > 영어영문"
+      },
+      {
+        "university": "충남대",
+        "field": "자연 > 생명과학"
+      },
+      {
+        "university": "부산대",
+        "field": "자연 > 생명과학"
+      },
+      {
+        "university": "부산대",
+        "field": "자연 > 물리"
+      },
+      {
+        "university": "부산대",
+        "field": "공학 > 기계공학"
+      },
+      {
+        "university": "부산대",
+        "field": "의약 > 약학"
+      },
+      {
+        "university": "부산대",
+        "field": "의약 > 의예"
+      },
+      {
+        "university": "서울과기대",
+        "field": "자연 > 물리"
+      },
+      {
+        "university": "가톨릭대",
+        "field": "자연 > 생명과학"
+      },
+      {
+        "university": "가톨릭대",
+        "field": "자연 > 물리"
+      },
+      {
+        "university": "경북대",
+        "field": "자연 > 생명과학"
+      },
+      {
+        "university": "경북대",
+        "field": "자연 > 물리"
+      },
+      {
+        "university": "경북대",
+        "field": "의약 > 약학"
+      },
+      {
+        "university": "경북대",
+        "field": "의약 > 의예"
+      },
+      {
+        "university": "고려대",
+        "field": "자연 > 생명과학"
+      },
+      {
+        "university": "고려대",
+        "field": "자연 > 물리"
+      },
+      {
+        "university": "고려대",
+        "field": "의약 > 의예"
+      },
+      {
+        "university": "경희대",
+        "field": "자연 > 생명과학"
+      },
+      {
+        "university": "경희대",
+        "field": "의약 > 약학"
+      },
+      {
+        "university": "경희대",
+        "field": "의약 > 의예"
+      },
+      {
+        "university": "중앙대",
+        "field": "자연 > 생명과학"
+      },
+      {
+        "university": "중앙대",
+        "field": "자연 > 물리"
+      },
+      {
+        "university": "중앙대",
+        "field": "공학 > 기계공학"
+      },
+      {
+        "university": "중앙대",
+        "field": "의약 > 의예"
+      },
+      {
+        "university": "국민대",
+        "field": "자연 > 물리"
+      },
+      {
+        "university": "인하대",
+        "field": "공학 > 기계공학"
+      },
+      {
+        "university": "경성대",
+        "field": "의약 > 약학"
+      },
+      {
+        "university": "한양대",
+        "field": "의약 > 약학"
+      }
+    ],
+    "id": 37
+  },
+  {
+    "name": "생명과학",
+    "subjectGroup": "과학",
+    "type": "일반",
+    "category": "학생선택(2학년)",
+    "baseCredit": 4,
+    "opCredit": 3,
+    "semesters": [],
+    "selectionGroup": "",
+    "targetGrades": [
+      "2026 신입생",
+      "2025 신입생"
+    ],
+    "description": "세포, 유전, 진화, 생태계 등 생명 현상의 원리를 학습합니다.",
+    "relatedMajors": "",
+    "relatedJobs": "",
+    "recommendingUniversities": [
+      {
+        "university": "강원대",
+        "field": "교육 > 수학교육"
+      },
+      {
+        "university": "강원대",
+        "field": "자연 > 생명과학"
+      },
+      {
+        "university": "강원대",
+        "field": "자연 > 물리"
+      },
+      {
+        "university": "강원대",
+        "field": "의약 > 약학"
+      },
+      {
+        "university": "강원대",
+        "field": "의약 > 의예"
+      },
+      {
+        "university": "서울대",
+        "field": "자연 > 생명과학"
+      },
+      {
+        "university": "서울대",
+        "field": "의약 > 약학"
+      },
+      {
+        "university": "서울대",
+        "field": "의약 > 의예"
+      },
+      {
+        "university": "서울시립대",
+        "field": "자연 > 생명과학"
+      },
+      {
+        "university": "충남대",
+        "field": "자연 > 생명과학"
+      },
+      {
+        "university": "부산대",
+        "field": "자연 > 생명과학"
+      },
+      {
+        "university": "부산대",
+        "field": "자연 > 물리"
+      },
+      {
+        "university": "부산대",
+        "field": "의약 > 약학"
+      },
+      {
+        "university": "부산대",
+        "field": "의약 > 의예"
+      },
+      {
+        "university": "가톨릭대",
+        "field": "자연 > 생명과학"
+      },
+      {
+        "university": "경북대",
+        "field": "자연 > 생명과학"
+      },
+      {
+        "university": "경북대",
+        "field": "자연 > 물리"
+      },
+      {
+        "university": "경북대",
+        "field": "의약 > 약학"
+      },
+      {
+        "university": "경북대",
+        "field": "의약 > 의예"
+      },
+      {
+        "university": "고려대",
+        "field": "자연 > 생명과학"
+      },
+      {
+        "university": "고려대",
+        "field": "의약 > 의예"
+      },
+      {
+        "university": "경희대",
+        "field": "자연 > 생명과학"
+      },
+      {
+        "university": "경희대",
+        "field": "의약 > 약학"
+      },
+      {
+        "university": "경희대",
+        "field": "의약 > 의예"
+      },
+      {
+        "university": "중앙대",
+        "field": "자연 > 생명과학"
+      },
+      {
+        "university": "중앙대",
+        "field": "자연 > 물리"
+      },
+      {
+        "university": "중앙대",
+        "field": "공학 > 기계공학"
+      },
+      {
+        "university": "중앙대",
+        "field": "의약 > 의예"
+      },
+      {
+        "university": "경성대",
+        "field": "의약 > 약학"
+      },
+      {
+        "university": "한양대",
+        "field": "의약 > 약학"
+      }
+    ],
+    "id": 38
+  },
+  {
+    "name": "지구과학",
+    "subjectGroup": "과학",
+    "type": "일반",
+    "category": "학생선택(2학년)",
+    "baseCredit": 4,
+    "opCredit": 3,
+    "semesters": [],
+    "selectionGroup": "",
+    "targetGrades": [
+      "2026 신입생",
+      "2025 신입생"
+    ],
+    "description": "지구의 구조, 대기, 해양, 천문 등 지구과학의 기본 원리를 학습합니다.",
+    "relatedMajors": "",
+    "relatedJobs": "",
+    "recommendingUniversities": [],
+    "id": 39
+  },
+  {
+    "name": "현대사회와 윤리",
+    "subjectGroup": "사회",
+    "type": "일반",
+    "category": "학생선택(2학년)",
+    "baseCredit": 4,
+    "opCredit": 3,
+    "semesters": [
+      "2-1"
+    ],
+    "selectionGroup": "[택3]9",
+    "targetGrades": [
+      "2026 신입생",
+      "2025 신입생"
+    ],
+    "description": "현대 사회의 윤리적 쟁점을 비판적으로 탐구하는 일반 선택 과목입니다.",
+    "relatedMajors": "",
+    "relatedJobs": "",
+    "recommendingUniversities": [
+      {
+        "university": "강원대",
+        "field": "인문 > 철학"
+      },
+      {
+        "university": "광운대",
+        "field": "인문 > 영어영문"
+      },
+      {
+        "university": "광운대",
+        "field": "사회 > 경영"
+      },
+      {
+        "university": "광운대",
+        "field": "사회 > 심리"
+      },
+      {
+        "university": "동국대",
+        "field": "인문 > 영어영문"
+      },
+      {
+        "university": "동국대",
+        "field": "인문 > 철학"
+      },
+      {
+        "university": "전남대",
+        "field": "인문 > 철학"
+      }
+    ],
+    "id": 40
+  },
+  {
+    "name": "기하",
+    "subjectGroup": "수학",
+    "type": "진로",
+    "category": "학생선택(2학년)",
+    "baseCredit": 4,
+    "opCredit": 3,
+    "semesters": [],
+    "selectionGroup": "",
+    "targetGrades": [
+      "2026 신입생",
+      "2025 신입생"
+    ],
+    "description": "이차곡선, 벡터, 공간도형과 공간좌표를 학습하는 진로 선택 과목입니다.",
+    "relatedMajors": "",
+    "relatedJobs": "",
+    "recommendingUniversities": [
+      {
+        "university": "강원대",
+        "field": "교육 > 수학교육"
+      },
+      {
+        "university": "강원대",
+        "field": "자연 > 물리"
+      },
+      {
+        "university": "서울대",
+        "field": "교육 > 수학교육"
+      },
+      {
+        "university": "서울대",
+        "field": "자연 > 생명과학"
+      },
+      {
+        "university": "서울대",
+        "field": "자연 > 물리"
+      },
+      {
+        "university": "서울대",
+        "field": "공학 > 기계공학"
+      },
+      {
+        "university": "서울대",
+        "field": "의약 > 약학"
+      },
+      {
+        "university": "서울대",
+        "field": "의약 > 의예"
+      },
+      {
+        "university": "서울시립대",
+        "field": "공학 > 기계공학"
+      },
+      {
+        "university": "숭실대",
+        "field": "공학 > 기계공학"
+      },
+      {
+        "university": "건국대",
+        "field": "공학 > 기계공학"
+      },
+      {
+        "university": "동아대",
+        "field": "예체능 > 체육"
+      },
+      {
+        "university": "부산대",
+        "field": "교육 > 수학교육"
+      },
+      {
+        "university": "부산대",
+        "field": "자연 > 물리"
+      },
+      {
+        "university": "부산대",
+        "field": "공학 > 기계공학"
+      },
+      {
+        "university": "전주대",
+        "field": "공학 > 기계공학"
+      },
+      {
+        "university": "고려대",
+        "field": "교육 > 수학교육"
+      },
+      {
+        "university": "고려대",
+        "field": "공학 > 기계공학"
+      },
+      {
+        "university": "중앙대",
+        "field": "자연 > 생명과학"
+      },
+      {
+        "university": "중앙대",
+        "field": "자연 > 물리"
+      },
+      {
+        "university": "중앙대",
+        "field": "공학 > 기계공학"
+      },
+      {
+        "university": "중앙대",
+        "field": "의약 > 의예"
+      },
+      {
+        "university": "국민대",
+        "field": "공학 > 기계공학"
+      },
+      {
+        "university": "경성대",
+        "field": "의약 > 약학"
+      }
+    ],
+    "id": 41
+  },
+  {
+    "name": "사회와 문화",
+    "subjectGroup": "사회",
+    "type": "일반",
+    "category": "학생선택(2학년)",
+    "baseCredit": 4,
+    "opCredit": 3,
+    "semesters": [
+      "2-2"
+    ],
+    "selectionGroup": "",
+    "targetGrades": [
+      "2026 신입생",
+      "2025 신입생"
+    ],
+    "description": "사회·문화 현상을 사회학적 관점에서 체계적으로 탐구합니다.",
+    "relatedMajors": "",
+    "relatedJobs": "",
+    "recommendingUniversities": [
+      {
+        "university": "강원대",
+        "field": "사회 > 심리"
+      },
+      {
+        "university": "광운대",
+        "field": "인문 > 영어영문"
+      },
+      {
+        "university": "광운대",
+        "field": "사회 > 경영"
+      },
+      {
+        "university": "광운대",
+        "field": "사회 > 심리"
+      },
+      {
+        "university": "광운대",
+        "field": "자연 > 물리"
+      },
+      {
+        "university": "광운대",
+        "field": "공학 > 기계공학"
+      },
+      {
+        "university": "단국대",
+        "field": "교육 > 수학교육"
+      },
+      {
+        "university": "단국대",
+        "field": "공학 > 기계공학"
+      },
+      {
+        "university": "덕성여대",
+        "field": "인문 > 영어영문"
+      },
+      {
+        "university": "동국대",
+        "field": "인문 > 영어영문"
+      },
+      {
+        "university": "동국대",
+        "field": "사회 > 경영"
+      },
+      {
+        "university": "동국대",
+        "field": "교육 > 국어교육"
+      },
+      {
+        "university": "동국대",
+        "field": "자연 > 생명과학"
+      },
+      {
+        "university": "동국대",
+        "field": "자연 > 물리"
+      },
+      {
+        "university": "숭실대",
+        "field": "인문 > 영어영문"
+      },
+      {
+        "university": "숭실대",
+        "field": "인문 > 철학"
+      },
+      {
+        "university": "숭실대",
+        "field": "사회 > 경영"
+      },
+      {
+        "university": "숭실대",
+        "field": "자연 > 물리"
+      },
+      {
+        "university": "영남대",
+        "field": "인문 > 영어영문"
+      },
+      {
+        "university": "영남대",
+        "field": "인문 > 철학"
+      },
+      {
+        "university": "영남대",
+        "field": "사회 > 경영"
+      },
+      {
+        "university": "영남대",
+        "field": "사회 > 심리"
+      },
+      {
+        "university": "영남대",
+        "field": "교육 > 국어교육"
+      },
+      {
+        "university": "영남대",
+        "field": "교육 > 수학교육"
+      },
+      {
+        "university": "영남대",
+        "field": "자연 > 생명과학"
+      },
+      {
+        "university": "영남대",
+        "field": "자연 > 물리"
+      },
+      {
+        "university": "영남대",
+        "field": "공학 > 기계공학"
+      },
+      {
+        "university": "영남대",
+        "field": "의약 > 약학"
+      },
+      {
+        "university": "영남대",
+        "field": "의약 > 의예"
+      },
+      {
+        "university": "전남대",
+        "field": "인문 > 영어영문"
+      },
+      {
+        "university": "전남대",
+        "field": "사회 > 심리"
+      },
+      {
+        "university": "전남대",
+        "field": "자연 > 물리"
+      },
+      {
+        "university": "전남대",
+        "field": "공학 > 기계공학"
+      },
+      {
+        "university": "전북대",
+        "field": "자연 > 생명과학"
+      },
+      {
+        "university": "전북대",
+        "field": "자연 > 물리"
+      },
+      {
+        "university": "전북대",
+        "field": "공학 > 기계공학"
+      },
+      {
+        "university": "조선대",
+        "field": "공학 > 기계공학"
+      },
+      {
+        "university": "조선대",
+        "field": "의약 > 의예"
+      },
+      {
+        "university": "조선대",
+        "field": "예체능 > 시각디자인"
+      },
+      {
+        "university": "충북대",
+        "field": "인문 > 영어영문"
+      },
+      {
+        "university": "충북대",
+        "field": "인문 > 철학"
+      },
+      {
+        "university": "충북대",
+        "field": "교육 > 수학교육"
+      },
+      {
+        "university": "충북대",
+        "field": "자연 > 물리"
+      },
+      {
+        "university": "충북대",
+        "field": "공학 > 기계공학"
+      },
+      {
+        "university": "건국대",
+        "field": "인문 > 철학"
+      },
+      {
+        "university": "동아대",
+        "field": "인문 > 철학"
+      },
+      {
+        "university": "동아대",
+        "field": "자연 > 물리"
+      },
+      {
+        "university": "동아대",
+        "field": "공학 > 기계공학"
+      },
+      {
+        "university": "동아대",
+        "field": "의약 > 의예"
+      },
+      {
+        "university": "동아대",
+        "field": "예체능 > 체육"
+      },
+      {
+        "university": "충남대",
+        "field": "사회 > 경영"
+      },
+      {
+        "university": "충남대",
+        "field": "사회 > 심리"
+      },
+      {
+        "university": "충남대",
+        "field": "교육 > 국어교육"
+      },
+      {
+        "university": "충남대",
+        "field": "교육 > 수학교육"
+      },
+      {
+        "university": "충남대",
+        "field": "자연 > 물리"
+      },
+      {
+        "university": "국립한밭대",
+        "field": "사회 > 경영"
+      },
+      {
+        "university": "아주대",
+        "field": "사회 > 경영"
+      },
+      {
+        "university": "아주대",
+        "field": "사회 > 심리"
+      },
+      {
+        "university": "아주대",
+        "field": "자연 > 물리"
+      },
+      {
+        "university": "아주대",
+        "field": "공학 > 기계공학"
+      },
+      {
+        "university": "아주대",
+        "field": "의약 > 의예"
+      },
+      {
+        "university": "서울과기대",
+        "field": "자연 > 생명과학"
+      },
+      {
+        "university": "서울과기대",
+        "field": "공학 > 기계공학"
+      },
+      {
+        "university": "한국기술교육대",
+        "field": "공학 > 기계공학"
+      },
+      {
+        "university": "한국항공대",
+        "field": "공학 > 기계공학"
+      },
+      {
+        "university": "가톨릭대",
+        "field": "자연 > 물리"
+      },
+      {
+        "university": "가톨릭대",
+        "field": "공학 > 기계공학"
+      },
+      {
+        "university": "경북대",
+        "field": "자연 > 물리"
+      },
+      {
+        "university": "경북대",
+        "field": "공학 > 기계공학"
+      },
+      {
+        "university": "경희대",
+        "field": "자연 > 물리"
+      },
+      {
+        "university": "경희대",
+        "field": "공학 > 기계공학"
+      }
+    ],
+    "id": 42
+  },
+  {
+    "name": "도시의 미래 탐구",
+    "subjectGroup": "사회",
+    "type": "진로",
+    "category": "학생선택(2학년)",
+    "baseCredit": 4,
+    "opCredit": 3,
+    "semesters": [],
+    "selectionGroup": "",
+    "targetGrades": [
+      "2026 신입생",
+      "2025 신입생"
+    ],
+    "description": "도시의 구조, 문제, 지속가능한 발전 방향을 탐구하는 진로 선택 과목입니다.",
+    "relatedMajors": "",
+    "relatedJobs": "",
+    "recommendingUniversities": [
+      {
+        "university": "광운대",
+        "field": "사회 > 경영"
+      },
+      {
+        "university": "광운대",
+        "field": "자연 > 물리"
+      },
+      {
+        "university": "덕성여대",
+        "field": "의약 > 약학"
+      },
+      {
+        "university": "동국대",
+        "field": "자연 > 생명과학"
+      },
+      {
+        "university": "동국대",
+        "field": "의약 > 약학"
+      },
+      {
+        "university": "숭실대",
+        "field": "자연 > 생명과학"
+      },
+      {
+        "university": "영남대",
+        "field": "자연 > 생명과학"
+      },
+      {
+        "university": "영남대",
+        "field": "자연 > 물리"
+      },
+      {
+        "university": "영남대",
+        "field": "의약 > 약학"
+      },
+      {
+        "university": "영남대",
+        "field": "의약 > 의예"
+      },
+      {
+        "university": "전남대",
+        "field": "공학 > 기계공학"
+      },
+      {
+        "university": "전남대",
+        "field": "의약 > 의예"
+      },
+      {
+        "university": "건국대",
+        "field": "의약 > 의예"
+      },
+      {
+        "university": "충남대",
+        "field": "공학 > 기계공학"
+      },
+      {
+        "university": "충남대",
+        "field": "의약 > 의예"
+      },
+      {
+        "university": "서울과기대",
+        "field": "자연 > 생명과학"
+      },
+      {
+        "university": "가톨릭대",
+        "field": "의약 > 약학"
+      },
+      {
+        "university": "가톨릭대",
+        "field": "의약 > 의예"
+      },
+      {
+        "university": "경희대",
+        "field": "자연 > 물리"
+      },
+      {
+        "university": "원광대",
+        "field": "공학 > 기계공학"
+      },
+      {
+        "university": "원광대",
+        "field": "의약 > 의예"
+      }
+    ],
+    "id": 43
+  },
+  {
+    "name": "역학과 에너지",
+    "subjectGroup": "과학",
+    "type": "진로",
+    "category": "학생선택(2학년)",
+    "baseCredit": 4,
+    "opCredit": 3,
+    "semesters": [],
+    "selectionGroup": "",
+    "targetGrades": [
+      "2026 신입생",
+      "2025 신입생"
+    ],
+    "description": "뉴턴 역학, 에너지 보존, 운동량을 심화 학습하는 진로 선택 과목입니다.",
+    "relatedMajors": "",
+    "relatedJobs": "",
+    "recommendingUniversities": [
+      {
+        "university": "강원대",
+        "field": "자연 > 물리"
+      },
+      {
+        "university": "강원대",
+        "field": "공학 > 기계공학"
+      },
+      {
+        "university": "서울대",
+        "field": "교육 > 수학교육"
+      },
+      {
+        "university": "서울대",
+        "field": "자연 > 물리"
+      },
+      {
+        "university": "서울대",
+        "field": "공학 > 기계공학"
+      },
+      {
+        "university": "서울시립대",
+        "field": "공학 > 기계공학"
+      },
+      {
+        "university": "숭실대",
+        "field": "공학 > 기계공학"
+      },
+      {
+        "university": "전북대",
+        "field": "공학 > 기계공학"
+      },
+      {
+        "university": "조선대",
+        "field": "예체능 > 시각디자인"
+      },
+      {
+        "university": "충북대",
+        "field": "공학 > 기계공학"
+      },
+      {
+        "university": "충북대",
+        "field": "의약 > 의예"
+      },
+      {
+        "university": "건국대",
+        "field": "공학 > 기계공학"
+      },
+      {
+        "university": "동아대",
+        "field": "자연 > 생명과학"
+      },
+      {
+        "university": "충남대",
+        "field": "공학 > 기계공학"
+      },
+      {
+        "university": "부산대",
+        "field": "자연 > 물리"
+      },
+      {
+        "university": "부산대",
+        "field": "공학 > 기계공학"
+      },
+      {
+        "university": "서울과기대",
+        "field": "자연 > 물리"
+      },
+      {
+        "university": "경북대",
+        "field": "의약 > 약학"
+      },
+      {
+        "university": "경북대",
+        "field": "의약 > 의예"
+      },
+      {
+        "university": "고려대",
+        "field": "자연 > 물리"
+      },
+      {
+        "university": "고려대",
+        "field": "공학 > 기계공학"
+      },
+      {
+        "university": "경희대",
+        "field": "의약 > 의예"
+      },
+      {
+        "university": "중앙대",
+        "field": "자연 > 물리"
+      },
+      {
+        "university": "중앙대",
+        "field": "공학 > 기계공학"
+      },
+      {
+        "university": "국민대",
+        "field": "자연 > 물리"
+      },
+      {
+        "university": "국민대",
+        "field": "공학 > 기계공학"
+      },
+      {
+        "university": "인하대",
+        "field": "자연 > 물리"
+      },
+      {
+        "university": "인하대",
+        "field": "공학 > 기계공학"
+      },
+      {
+        "university": "경기대",
+        "field": "자연 > 물리"
+      }
+    ],
+    "id": 44
+  },
+  {
+    "name": "물질과 에너지",
+    "subjectGroup": "과학",
+    "type": "진로",
+    "category": "학생선택(2학년)",
+    "baseCredit": 4,
+    "opCredit": 3,
+    "semesters": [],
+    "selectionGroup": "",
+    "targetGrades": [
+      "2026 신입생",
+      "2025 신입생"
+    ],
+    "description": "물질의 성질과 에너지 변환을 탐구하는 진로 선택 과목입니다.",
+    "relatedMajors": "",
+    "relatedJobs": "",
+    "recommendingUniversities": [
+      {
+        "university": "강원대",
+        "field": "자연 > 생명과학"
+      },
+      {
+        "university": "강원대",
+        "field": "자연 > 물리"
+      },
+      {
+        "university": "강원대",
+        "field": "공학 > 기계공학"
+      },
+      {
+        "university": "강원대",
+        "field": "의약 > 약학"
+      },
+      {
+        "university": "강원대",
+        "field": "의약 > 의예"
+      },
+      {
+        "university": "서울대",
+        "field": "자연 > 물리"
+      },
+      {
+        "university": "서울대",
+        "field": "의약 > 약학"
+      },
+      {
+        "university": "서울시립대",
+        "field": "자연 > 생명과학"
+      },
+      {
+        "university": "영남대",
+        "field": "인문 > 철학"
+      },
+      {
+        "university": "영남대",
+        "field": "사회 > 경영"
+      },
+      {
+        "university": "전남대",
+        "field": "자연 > 물리"
+      },
+      {
+        "university": "충북대",
+        "field": "인문 > 영어영문"
+      },
+      {
+        "university": "충남대",
+        "field": "자연 > 생명과학"
+      },
+      {
+        "university": "부산대",
+        "field": "자연 > 생명과학"
+      },
+      {
+        "university": "부산대",
+        "field": "자연 > 물리"
+      },
+      {
+        "university": "부산대",
+        "field": "공학 > 기계공학"
+      },
+      {
+        "university": "부산대",
+        "field": "의약 > 약학"
+      },
+      {
+        "university": "부산대",
+        "field": "의약 > 의예"
+      },
+      {
+        "university": "서울과기대",
+        "field": "자연 > 물리"
+      },
+      {
+        "university": "가톨릭대",
+        "field": "자연 > 생명과학"
+      },
+      {
+        "university": "가톨릭대",
+        "field": "자연 > 물리"
+      },
+      {
+        "university": "경북대",
+        "field": "자연 > 생명과학"
+      },
+      {
+        "university": "경북대",
+        "field": "자연 > 물리"
+      },
+      {
+        "university": "경북대",
+        "field": "의약 > 약학"
+      },
+      {
+        "university": "경북대",
+        "field": "의약 > 의예"
+      },
+      {
+        "university": "고려대",
+        "field": "자연 > 생명과학"
+      },
+      {
+        "university": "고려대",
+        "field": "자연 > 물리"
+      },
+      {
+        "university": "고려대",
+        "field": "의약 > 의예"
+      },
+      {
+        "university": "경희대",
+        "field": "자연 > 생명과학"
+      },
+      {
+        "university": "경희대",
+        "field": "의약 > 약학"
+      },
+      {
+        "university": "경희대",
+        "field": "의약 > 의예"
+      },
+      {
+        "university": "중앙대",
+        "field": "자연 > 생명과학"
+      },
+      {
+        "university": "중앙대",
+        "field": "자연 > 물리"
+      },
+      {
+        "university": "중앙대",
+        "field": "공학 > 기계공학"
+      },
+      {
+        "university": "중앙대",
+        "field": "의약 > 의예"
+      },
+      {
+        "university": "국민대",
+        "field": "자연 > 물리"
+      },
+      {
+        "university": "인하대",
+        "field": "공학 > 기계공학"
+      },
+      {
+        "university": "경성대",
+        "field": "의약 > 약학"
+      },
+      {
+        "university": "한양대",
+        "field": "의약 > 약학"
+      }
+    ],
+    "id": 45
+  },
+  {
+    "name": "세포와 물질대사",
+    "subjectGroup": "과학",
+    "type": "진로",
+    "category": "학생선택(2학년)",
+    "baseCredit": 4,
+    "opCredit": 3,
+    "semesters": [],
+    "selectionGroup": "",
+    "targetGrades": [
+      "2026 신입생",
+      "2025 신입생"
+    ],
+    "description": "세포의 구조와 기능, 물질대사 과정을 심화 학습하는 진로 선택 과목입니다.",
+    "relatedMajors": "",
+    "relatedJobs": "",
+    "recommendingUniversities": [
+      {
+        "university": "강원대",
+        "field": "교육 > 수학교육"
+      },
+      {
+        "university": "강원대",
+        "field": "자연 > 생명과학"
+      },
+      {
+        "university": "강원대",
+        "field": "자연 > 물리"
+      },
+      {
+        "university": "강원대",
+        "field": "의약 > 약학"
+      },
+      {
+        "university": "강원대",
+        "field": "의약 > 의예"
+      },
+      {
+        "university": "서울대",
+        "field": "자연 > 생명과학"
+      },
+      {
+        "university": "서울대",
+        "field": "의약 > 약학"
+      },
+      {
+        "university": "서울대",
+        "field": "의약 > 의예"
+      },
+      {
+        "university": "서울시립대",
+        "field": "자연 > 생명과학"
+      },
+      {
+        "university": "충남대",
+        "field": "자연 > 생명과학"
+      },
+      {
+        "university": "부산대",
+        "field": "자연 > 생명과학"
+      },
+      {
+        "university": "부산대",
+        "field": "자연 > 물리"
+      },
+      {
+        "university": "부산대",
+        "field": "의약 > 약학"
+      },
+      {
+        "university": "부산대",
+        "field": "의약 > 의예"
+      },
+      {
+        "university": "가톨릭대",
+        "field": "자연 > 생명과학"
+      },
+      {
+        "university": "경북대",
+        "field": "자연 > 생명과학"
+      },
+      {
+        "university": "경북대",
+        "field": "자연 > 물리"
+      },
+      {
+        "university": "경북대",
+        "field": "의약 > 약학"
+      },
+      {
+        "university": "경북대",
+        "field": "의약 > 의예"
+      },
+      {
+        "university": "고려대",
+        "field": "자연 > 생명과학"
+      },
+      {
+        "university": "고려대",
+        "field": "의약 > 의예"
+      },
+      {
+        "university": "경희대",
+        "field": "자연 > 생명과학"
+      },
+      {
+        "university": "경희대",
+        "field": "의약 > 약학"
+      },
+      {
+        "university": "경희대",
+        "field": "의약 > 의예"
+      },
+      {
+        "university": "중앙대",
+        "field": "자연 > 생명과학"
+      },
+      {
+        "university": "중앙대",
+        "field": "자연 > 물리"
+      },
+      {
+        "university": "중앙대",
+        "field": "공학 > 기계공학"
+      },
+      {
+        "university": "중앙대",
+        "field": "의약 > 의예"
+      },
+      {
+        "university": "경성대",
+        "field": "의약 > 약학"
+      },
+      {
+        "university": "한양대",
+        "field": "의약 > 약학"
+      }
+    ],
+    "id": 46
+  },
+  {
+    "name": "중국어",
+    "subjectGroup": "제2외국어/한문",
+    "type": "일반",
+    "category": "학생선택(2학년)",
+    "baseCredit": 4,
+    "opCredit": 3,
+    "semesters": [
+      "2-1"
+    ],
+    "selectionGroup": "[택1]3",
+    "targetGrades": [
+      "2026 신입생",
+      "2025 신입생"
+    ],
+    "description": "중국어의 기본적인 의사소통 능력을 기르는 일반 선택 과목입니다.",
+    "relatedMajors": "",
+    "relatedJobs": "",
+    "recommendingUniversities": [],
+    "id": 47
+  },
+  {
+    "name": "일본어",
+    "subjectGroup": "제2외국어/한문",
+    "type": "일반",
+    "category": "학생선택(2학년)",
+    "baseCredit": 4,
+    "opCredit": 3,
+    "semesters": [],
+    "selectionGroup": "",
+    "targetGrades": [
+      "2026 신입생",
+      "2025 신입생"
+    ],
+    "description": "일본어의 기본적인 의사소통 능력을 기르는 일반 선택 과목입니다.",
+    "relatedMajors": "",
+    "relatedJobs": "",
+    "recommendingUniversities": [],
+    "id": 48
+  },
+  {
+    "name": "중국어 회화",
+    "subjectGroup": "제2외국어/한문",
+    "type": "진로",
+    "category": "학생선택(2학년)",
+    "baseCredit": 4,
+    "opCredit": 3,
+    "semesters": [
+      "2-2"
+    ],
+    "selectionGroup": "[택1]3",
+    "targetGrades": [
+      "2026 신입생",
+      "2025 신입생"
+    ],
+    "description": "중국어 회화 능력을 심화하는 진로 선택 과목입니다.",
+    "relatedMajors": "",
+    "relatedJobs": "",
+    "recommendingUniversities": [],
+    "id": 49
+  },
+  {
+    "name": "일본어 회화",
+    "subjectGroup": "제2외국어/한문",
+    "type": "진로",
+    "category": "학생선택(2학년)",
+    "baseCredit": 4,
+    "opCredit": 3,
+    "semesters": [],
+    "selectionGroup": "",
+    "targetGrades": [
+      "2026 신입생",
+      "2025 신입생"
+    ],
+    "description": "일본어 회화 능력을 심화하는 진로 선택 과목입니다.",
+    "relatedMajors": "",
+    "relatedJobs": "",
+    "recommendingUniversities": [],
+    "id": 50
+  },
+  {
+    "name": "화법과 언어",
+    "subjectGroup": "국어",
+    "type": "일반",
+    "category": "학생선택(3학년)",
+    "baseCredit": 4,
+    "opCredit": 4,
+    "semesters": [
+      "3-1"
+    ],
+    "selectionGroup": "[택3]",
+    "targetGrades": [
+      "2026 신입생",
+      "2025 신입생"
+    ],
+    "description": "효과적인 의사소통 전략을 익히고, 국어의 구조와 규범에 대한 이해를 깊이는 일반 선택 과목입니다.",
+    "relatedMajors": "",
+    "relatedJobs": "",
+    "recommendingUniversities": [
+      {
+        "university": "강원대",
+        "field": "인문 > 철학"
+      },
+      {
+        "university": "강원대",
+        "field": "사회 > 경영"
+      },
+      {
+        "university": "강원대",
+        "field": "사회 > 심리"
+      },
+      {
+        "university": "강원대",
+        "field": "교육 > 국어교육"
+      },
+      {
+        "university": "강원대",
+        "field": "의약 > 의예"
+      },
+      {
+        "university": "강원대",
+        "field": "예체능 > 시각디자인"
+      },
+      {
+        "university": "강원대",
+        "field": "교육 > 체육"
+      },
+      {
+        "university": "광운대",
+        "field": "인문 > 영어영문"
+      },
+      {
+        "university": "광운대",
+        "field": "사회 > 경영"
+      },
+      {
+        "university": "광운대",
+        "field": "사회 > 심리"
+      },
+      {
+        "university": "광운대",
+        "field": "인문 > 체육"
+      },
+      {
+        "university": "단국대",
+        "field": "인문 > 영어영문"
+      },
+      {
+        "university": "단국대",
+        "field": "인문 > 철학"
+      },
+      {
+        "university": "단국대",
+        "field": "사회 > 경영"
+      },
+      {
+        "university": "단국대",
+        "field": "교육 > 국어교육"
+      },
+      {
+        "university": "단국대",
+        "field": "교육 > 수학교육"
+      },
+      {
+        "university": "단국대",
+        "field": "공학 > 기계공학"
+      },
+      {
+        "university": "단국대",
+        "field": "인문 > 체육"
+      },
+      {
+        "university": "단국대",
+        "field": "교육 > 체육"
+      },
+      {
+        "university": "덕성여대",
+        "field": "인문 > 영어영문"
+      },
+      {
+        "university": "덕성여대",
+        "field": "인문 > 체육"
+      },
+      {
+        "university": "동국대",
+        "field": "인문 > 영어영문"
+      },
+      {
+        "university": "동국대",
+        "field": "인문 > 철학"
+      },
+      {
+        "university": "동국대",
+        "field": "교육 > 국어교육"
+      },
+      {
+        "university": "동국대",
+        "field": "인문 > 체육"
+      },
+      {
+        "university": "서울대",
+        "field": "인문 > 체육"
+      },
+      {
+        "university": "서울시립대",
+        "field": "인문 > 영어영문"
+      },
+      {
+        "university": "서울시립대",
+        "field": "인문 > 철학"
+      },
+      {
+        "university": "서울시립대",
+        "field": "인문 > 체육"
+      },
+      {
+        "university": "숭실대",
+        "field": "인문 > 영어영문"
+      },
+      {
+        "university": "숭실대",
+        "field": "인문 > 철학"
+      },
+      {
+        "university": "숭실대",
+        "field": "사회 > 경영"
+      },
+      {
+        "university": "숭실대",
+        "field": "인문 > 체육"
+      },
+      {
+        "university": "영남대",
+        "field": "인문 > 영어영문"
+      },
+      {
+        "university": "영남대",
+        "field": "인문 > 철학"
+      },
+      {
+        "university": "영남대",
+        "field": "사회 > 경영"
+      },
+      {
+        "university": "영남대",
+        "field": "사회 > 심리"
+      },
+      {
+        "university": "영남대",
+        "field": "교육 > 국어교육"
+      },
+      {
+        "university": "영남대",
+        "field": "교육 > 수학교육"
+      },
+      {
+        "university": "영남대",
+        "field": "공학 > 기계공학"
+      },
+      {
+        "university": "영남대",
+        "field": "사회 > 체육"
+      },
+      {
+        "university": "전남대",
+        "field": "인문 > 철학"
+      },
+      {
+        "university": "전남대",
+        "field": "교육 > 국어교육"
+      },
+      {
+        "university": "전남대",
+        "field": "자연 > 체육"
+      },
+      {
+        "university": "전북대",
+        "field": "인문 > 영어영문"
+      },
+      {
+        "university": "전북대",
+        "field": "교육 > 국어교육"
+      },
+      {
+        "university": "전북대",
+        "field": "자연 > 체육"
+      },
+      {
+        "university": "조선대",
+        "field": "사회 > 심리"
+      },
+      {
+        "university": "조선대",
+        "field": "교육 > 국어교육"
+      },
+      {
+        "university": "조선대",
+        "field": "예체능 > 시각디자인"
+      },
+      {
+        "university": "조선대",
+        "field": "예체능 > 체육"
+      },
+      {
+        "university": "조선대",
+        "field": "자연 > 체육"
+      },
+      {
+        "university": "충북대",
+        "field": "인문 > 철학"
+      },
+      {
+        "university": "충북대",
+        "field": "교육 > 국어교육"
+      },
+      {
+        "university": "충북대",
+        "field": "교육 > 체육"
+      },
+      {
+        "university": "건국대",
+        "field": "인문 > 철학"
+      },
+      {
+        "university": "건국대",
+        "field": "인문 > 체육"
+      },
+      {
+        "university": "동아대",
+        "field": "인문 > 철학"
+      },
+      {
+        "university": "동아대",
+        "field": "의약 > 의예"
+      },
+      {
+        "university": "동아대",
+        "field": "예체능 > 시각디자인"
+      },
+      {
+        "university": "동아대",
+        "field": "예체능 > 체육"
+      },
+      {
+        "university": "동아대",
+        "field": "사회 > 체육"
+      },
+      {
+        "university": "충남대",
+        "field": "인문 > 철학"
+      },
+      {
+        "university": "충남대",
+        "field": "사회 > 심리"
+      },
+      {
+        "university": "충남대",
+        "field": "교육 > 국어교육"
+      },
+      {
+        "university": "충남대",
+        "field": "교육 > 체육"
+      },
+      {
+        "university": "국립한밭대",
+        "field": "예체능 > 시각디자인"
+      },
+      {
+        "university": "국립한밭대",
+        "field": "교육 > 체육"
+      },
+      {
+        "university": "부산대",
+        "field": "사회 > 체육"
+      },
+      {
+        "university": "아주대",
+        "field": "인문 > 체육"
+      },
+      {
+        "university": "서울과기대",
+        "field": "인문 > 체육"
+      },
+      {
+        "university": "전주대",
+        "field": "사회 > 경영"
+      },
+      {
+        "university": "전주대",
+        "field": "사회 > 심리"
+      },
+      {
+        "university": "전주대",
+        "field": "교육 > 국어교육"
+      },
+      {
+        "university": "전주대",
+        "field": "자연 > 체육"
+      },
+      {
+        "university": "한국기술교육대",
+        "field": "사회 > 경영"
+      },
+      {
+        "university": "한국기술교육대",
+        "field": "공학 > 기계공학"
+      },
+      {
+        "university": "한국기술교육대",
+        "field": "교육 > 체육"
+      },
+      {
+        "university": "한국항공대",
+        "field": "인문 > 체육"
+      },
+      {
+        "university": "경북대",
+        "field": "교육 > 국어교육"
+      },
+      {
+        "university": "경북대",
+        "field": "사회 > 체육"
+      },
+      {
+        "university": "고려대",
+        "field": "인문 > 체육"
+      },
+      {
+        "university": "경희대",
+        "field": "인문 > 체육"
+      },
+      {
+        "university": "국민대",
+        "field": "인문 > 체육"
+      },
+      {
+        "university": "인하대",
+        "field": "인문 > 체육"
+      },
+      {
+        "university": "원광대",
+        "field": "자연 > 체육"
+      },
+      {
+        "university": "경성대",
+        "field": "사회 > 체육"
+      },
+      {
+        "university": "한양대",
+        "field": "인문 > 체육"
+      },
+      {
+        "university": "한국체대",
+        "field": "인문 > 체육"
+      },
+      {
+        "university": "성결대",
+        "field": "인문 > 체육"
+      },
+      {
+        "university": "협성대",
+        "field": "인문 > 체육"
+      },
+      {
+        "university": "한라대",
+        "field": "교육 > 체육"
+      },
+      {
+        "university": "광주교육대",
+        "field": "자연 > 체육"
+      }
+    ],
+    "id": 51
+  },
+  {
+    "name": "확률과 통계",
+    "subjectGroup": "수학",
+    "type": "일반",
+    "category": "학생선택(3학년)",
+    "baseCredit": 4,
+    "opCredit": 4,
+    "semesters": [
+      "1-1"
+    ],
+    "selectionGroup": "",
+    "targetGrades": [
+      "2026 신입생",
+      "2025 신입생"
+    ],
+    "description": "확률의 성질, 확률분포, 통계적 추정을 학습하는 일반 선택 과목입니다.",
+    "relatedMajors": "",
+    "relatedJobs": "",
+    "recommendingUniversities": [
+      {
+        "university": "강원대",
+        "field": "사회 > 경영"
+      },
+      {
+        "university": "강원대",
+        "field": "사회 > 심리"
+      },
+      {
+        "university": "강원대",
+        "field": "교육 > 수학교육"
+      },
+      {
+        "university": "강원대",
+        "field": "자연 > 물리"
+      },
+      {
+        "university": "강원대",
+        "field": "공학 > 기계공학"
+      },
+      {
+        "university": "강원대",
+        "field": "의약 > 약학"
+      },
+      {
+        "university": "강원대",
+        "field": "의약 > 의예"
+      },
+      {
+        "university": "광운대",
+        "field": "인문 > 영어영문"
+      },
+      {
+        "university": "광운대",
+        "field": "사회 > 경영"
+      },
+      {
+        "university": "광운대",
+        "field": "사회 > 심리"
+      },
+      {
+        "university": "단국대",
+        "field": "인문 > 영어영문"
+      },
+      {
+        "university": "단국대",
+        "field": "인문 > 철학"
+      },
+      {
+        "university": "단국대",
+        "field": "사회 > 경영"
+      },
+      {
+        "university": "단국대",
+        "field": "교육 > 국어교육"
+      },
+      {
+        "university": "단국대",
+        "field": "교육 > 수학교육"
+      },
+      {
+        "university": "단국대",
+        "field": "공학 > 기계공학"
+      },
+      {
+        "university": "동국대",
+        "field": "사회 > 경영"
+      },
+      {
+        "university": "서울시립대",
+        "field": "인문 > 철학"
+      },
+      {
+        "university": "서울시립대",
+        "field": "사회 > 경영"
+      },
+      {
+        "university": "서울시립대",
+        "field": "공학 > 기계공학"
+      },
+      {
+        "university": "숭실대",
+        "field": "사회 > 경영"
+      },
+      {
+        "university": "영남대",
+        "field": "인문 > 영어영문"
+      },
+      {
+        "university": "영남대",
+        "field": "사회 > 경영"
+      },
+      {
+        "university": "영남대",
+        "field": "사회 > 심리"
+      },
+      {
+        "university": "영남대",
+        "field": "자연 > 생명과학"
+      },
+      {
+        "university": "영남대",
+        "field": "자연 > 물리"
+      },
+      {
+        "university": "영남대",
+        "field": "공학 > 기계공학"
+      },
+      {
+        "university": "영남대",
+        "field": "의약 > 약학"
+      },
+      {
+        "university": "영남대",
+        "field": "의약 > 의예"
+      },
+      {
+        "university": "전남대",
+        "field": "자연 > 물리"
+      },
+      {
+        "university": "전남대",
+        "field": "의약 > 의예"
+      },
+      {
+        "university": "전북대",
+        "field": "의약 > 의예"
+      },
+      {
+        "university": "조선대",
+        "field": "사회 > 경영"
+      },
+      {
+        "university": "충북대",
+        "field": "사회 > 심리"
+      },
+      {
+        "university": "충북대",
+        "field": "공학 > 기계공학"
+      },
+      {
+        "university": "동아대",
+        "field": "사회 > 경영"
+      },
+      {
+        "university": "동아대",
+        "field": "공학 > 기계공학"
+      },
+      {
+        "university": "동아대",
+        "field": "의약 > 의예"
+      },
+      {
+        "university": "충남대",
+        "field": "사회 > 경영"
+      },
+      {
+        "university": "충남대",
+        "field": "사회 > 심리"
+      },
+      {
+        "university": "충남대",
+        "field": "자연 > 생명과학"
+      },
+      {
+        "university": "충남대",
+        "field": "공학 > 기계공학"
+      },
+      {
+        "university": "부산대",
+        "field": "사회 > 경영"
+      },
+      {
+        "university": "부산대",
+        "field": "교육 > 수학교육"
+      },
+      {
+        "university": "부산대",
+        "field": "공학 > 기계공학"
+      },
+      {
+        "university": "아주대",
+        "field": "사회 > 경영"
+      },
+      {
+        "university": "아주대",
+        "field": "사회 > 심리"
+      },
+      {
+        "university": "서울과기대",
+        "field": "사회 > 경영"
+      },
+      {
+        "university": "서울과기대",
+        "field": "자연 > 물리"
+      },
+      {
+        "university": "전주대",
+        "field": "공학 > 기계공학"
+      },
+      {
+        "university": "한국기술교육대",
+        "field": "사회 > 경영"
+      },
+      {
+        "university": "한국기술교육대",
+        "field": "공학 > 기계공학"
+      },
+      {
+        "university": "한국항공대",
+        "field": "사회 > 경영"
+      },
+      {
+        "university": "가톨릭대",
+        "field": "사회 > 심리"
+      },
+      {
+        "university": "경북대",
+        "field": "의약 > 약학"
+      },
+      {
+        "university": "경북대",
+        "field": "의약 > 의예"
+      },
+      {
+        "university": "경희대",
+        "field": "자연 > 생명과학"
+      },
+      {
+        "university": "경희대",
+        "field": "의약 > 약학"
+      },
+      {
+        "university": "경희대",
+        "field": "의약 > 의예"
+      }
+    ],
+    "id": 52
+  },
+  {
+    "name": "영어 독해와 작문",
+    "subjectGroup": "영어",
+    "type": "일반",
+    "category": "학생선택(3학년)",
+    "baseCredit": 4,
+    "opCredit": 4,
+    "semesters": [
+      "1-1"
+    ],
+    "selectionGroup": "",
+    "targetGrades": [
+      "2026 신입생",
+      "2025 신입생"
+    ],
+    "description": "영어 지문을 정확하게 독해하고, 다양한 유형의 영작문 능력을 기릅니다.",
+    "relatedMajors": "",
+    "relatedJobs": "",
+    "recommendingUniversities": [
+      {
+        "university": "강원대",
+        "field": "인문 > 영어영문"
+      },
+      {
+        "university": "강원대",
+        "field": "인문 > 철학"
+      },
+      {
+        "university": "강원대",
+        "field": "사회 > 경영"
+      },
+      {
+        "university": "강원대",
+        "field": "사회 > 심리"
+      },
+      {
+        "university": "강원대",
+        "field": "교육 > 수학교육"
+      },
+      {
+        "university": "강원대",
+        "field": "공학 > 기계공학"
+      },
+      {
+        "university": "강원대",
+        "field": "의약 > 의예"
+      },
+      {
+        "university": "강원대",
+        "field": "예체능 > 시각디자인"
+      },
+      {
+        "university": "광운대",
+        "field": "인문 > 영어영문"
+      },
+      {
+        "university": "광운대",
+        "field": "사회 > 경영"
+      },
+      {
+        "university": "광운대",
+        "field": "사회 > 심리"
+      },
+      {
+        "university": "덕성여대",
+        "field": "인문 > 영어영문"
+      },
+      {
+        "university": "동국대",
+        "field": "인문 > 영어영문"
+      },
+      {
+        "university": "동국대",
+        "field": "사회 > 경영"
+      },
+      {
+        "university": "숭실대",
+        "field": "인문 > 영어영문"
+      },
+      {
+        "university": "숭실대",
+        "field": "인문 > 철학"
+      },
+      {
+        "university": "영남대",
+        "field": "인문 > 영어영문"
+      },
+      {
+        "university": "영남대",
+        "field": "인문 > 철학"
+      },
+      {
+        "university": "영남대",
+        "field": "사회 > 경영"
+      },
+      {
+        "university": "영남대",
+        "field": "사회 > 심리"
+      },
+      {
+        "university": "영남대",
+        "field": "교육 > 국어교육"
+      },
+      {
+        "university": "전남대",
+        "field": "인문 > 영어영문"
+      },
+      {
+        "university": "전남대",
+        "field": "사회 > 심리"
+      },
+      {
+        "university": "전북대",
+        "field": "인문 > 영어영문"
+      },
+      {
+        "university": "조선대",
+        "field": "인문 > 영어영문"
+      },
+      {
+        "university": "조선대",
+        "field": "사회 > 심리"
+      },
+      {
+        "university": "충북대",
+        "field": "인문 > 영어영문"
+      },
+      {
+        "university": "충북대",
+        "field": "사회 > 경영"
+      },
+      {
+        "university": "충북대",
+        "field": "공학 > 기계공학"
+      },
+      {
+        "university": "충북대",
+        "field": "의약 > 의예"
+      },
+      {
+        "university": "건국대",
+        "field": "인문 > 철학"
+      },
+      {
+        "university": "동아대",
+        "field": "자연 > 생명과학"
+      },
+      {
+        "university": "동아대",
+        "field": "예체능 > 시각디자인"
+      },
+      {
+        "university": "동아대",
+        "field": "예체능 > 체육"
+      },
+      {
+        "university": "충남대",
+        "field": "인문 > 철학"
+      },
+      {
+        "university": "충남대",
+        "field": "사회 > 경영"
+      },
+      {
+        "university": "충남대",
+        "field": "사회 > 심리"
+      },
+      {
+        "university": "충남대",
+        "field": "교육 > 국어교육"
+      },
+      {
+        "university": "국립한밭대",
+        "field": "사회 > 경영"
+      },
+      {
+        "university": "국립한밭대",
+        "field": "예체능 > 시각디자인"
+      }
+    ],
+    "id": 53
+  },
+  {
+    "name": "영어 발표와 토론",
+    "subjectGroup": "영어",
+    "type": "진로",
+    "category": "학생선택(3학년)",
+    "baseCredit": 4,
+    "opCredit": 4,
+    "semesters": [
+      "1-1"
+    ],
+    "selectionGroup": "",
+    "targetGrades": [
+      "2026 신입생",
+      "2025 신입생"
+    ],
+    "description": "영어로 발표하고 토론하는 의사소통 능력을 기르는 진로 선택 과목입니다.",
+    "relatedMajors": "",
+    "relatedJobs": "",
+    "recommendingUniversities": [
+      {
+        "university": "강원대",
+        "field": "인문 > 영어영문"
+      },
+      {
+        "university": "강원대",
+        "field": "인문 > 철학"
+      },
+      {
+        "university": "강원대",
+        "field": "사회 > 경영"
+      },
+      {
+        "university": "강원대",
+        "field": "사회 > 심리"
+      },
+      {
+        "university": "강원대",
+        "field": "교육 > 수학교육"
+      },
+      {
+        "university": "강원대",
+        "field": "공학 > 기계공학"
+      },
+      {
+        "university": "강원대",
+        "field": "의약 > 의예"
+      },
+      {
+        "university": "강원대",
+        "field": "예체능 > 시각디자인"
+      },
+      {
+        "university": "광운대",
+        "field": "인문 > 영어영문"
+      },
+      {
+        "university": "광운대",
+        "field": "사회 > 경영"
+      },
+      {
+        "university": "광운대",
+        "field": "사회 > 심리"
+      },
+      {
+        "university": "덕성여대",
+        "field": "인문 > 영어영문"
+      },
+      {
+        "university": "동국대",
+        "field": "인문 > 영어영문"
+      },
+      {
+        "university": "동국대",
+        "field": "사회 > 경영"
+      },
+      {
+        "university": "숭실대",
+        "field": "인문 > 영어영문"
+      },
+      {
+        "university": "숭실대",
+        "field": "인문 > 철학"
+      },
+      {
+        "university": "영남대",
+        "field": "인문 > 영어영문"
+      },
+      {
+        "university": "영남대",
+        "field": "인문 > 철학"
+      },
+      {
+        "university": "영남대",
+        "field": "사회 > 경영"
+      },
+      {
+        "university": "영남대",
+        "field": "사회 > 심리"
+      },
+      {
+        "university": "영남대",
+        "field": "교육 > 국어교육"
+      },
+      {
+        "university": "전남대",
+        "field": "인문 > 영어영문"
+      },
+      {
+        "university": "전남대",
+        "field": "사회 > 심리"
+      },
+      {
+        "university": "전북대",
+        "field": "인문 > 영어영문"
+      },
+      {
+        "university": "조선대",
+        "field": "인문 > 영어영문"
+      },
+      {
+        "university": "조선대",
+        "field": "사회 > 심리"
+      },
+      {
+        "university": "충북대",
+        "field": "인문 > 영어영문"
+      },
+      {
+        "university": "충북대",
+        "field": "사회 > 경영"
+      },
+      {
+        "university": "충북대",
+        "field": "공학 > 기계공학"
+      },
+      {
+        "university": "충북대",
+        "field": "의약 > 의예"
+      },
+      {
+        "university": "건국대",
+        "field": "인문 > 철학"
+      },
+      {
+        "university": "동아대",
+        "field": "자연 > 생명과학"
+      },
+      {
+        "university": "동아대",
+        "field": "예체능 > 시각디자인"
+      },
+      {
+        "university": "동아대",
+        "field": "예체능 > 체육"
+      },
+      {
+        "university": "충남대",
+        "field": "인문 > 철학"
+      },
+      {
+        "university": "충남대",
+        "field": "사회 > 경영"
+      },
+      {
+        "university": "충남대",
+        "field": "사회 > 심리"
+      },
+      {
+        "university": "충남대",
+        "field": "교육 > 국어교육"
+      },
+      {
+        "university": "국립한밭대",
+        "field": "사회 > 경영"
+      },
+      {
+        "university": "국립한밭대",
+        "field": "예체능 > 시각디자인"
+      }
+    ],
+    "id": 54
+  },
+  {
+    "name": "문학과 영상",
+    "subjectGroup": "국어",
+    "type": "진로",
+    "category": "학생선택(3학년)",
+    "baseCredit": 4,
+    "opCredit": 3,
+    "semesters": [
+      "3-1"
+    ],
+    "selectionGroup": "[택4]12",
+    "targetGrades": [
+      "2026 신입생",
+      "2025 신입생"
+    ],
+    "description": "문학 작품을 영상 매체와 연계하여 이해하고, 다양한 형식으로 표현하는 능력을 기릅니다.",
+    "relatedMajors": "",
+    "relatedJobs": "",
+    "recommendingUniversities": [
+      {
+        "university": "강원대",
+        "field": "인문 > 철학"
+      },
+      {
+        "university": "강원대",
+        "field": "사회 > 경영"
+      },
+      {
+        "university": "강원대",
+        "field": "사회 > 심리"
+      },
+      {
+        "university": "강원대",
+        "field": "교육 > 국어교육"
+      },
+      {
+        "university": "강원대",
+        "field": "의약 > 의예"
+      },
+      {
+        "university": "강원대",
+        "field": "예체능 > 시각디자인"
+      },
+      {
+        "university": "강원대",
+        "field": "교육 > 체육"
+      },
+      {
+        "university": "광운대",
+        "field": "인문 > 영어영문"
+      },
+      {
+        "university": "광운대",
+        "field": "사회 > 경영"
+      },
+      {
+        "university": "광운대",
+        "field": "사회 > 심리"
+      },
+      {
+        "university": "광운대",
+        "field": "인문 > 체육"
+      },
+      {
+        "university": "단국대",
+        "field": "인문 > 영어영문"
+      },
+      {
+        "university": "단국대",
+        "field": "인문 > 철학"
+      },
+      {
+        "university": "단국대",
+        "field": "사회 > 경영"
+      },
+      {
+        "university": "단국대",
+        "field": "교육 > 국어교육"
+      },
+      {
+        "university": "단국대",
+        "field": "교육 > 수학교육"
+      },
+      {
+        "university": "단국대",
+        "field": "공학 > 기계공학"
+      },
+      {
+        "university": "단국대",
+        "field": "인문 > 체육"
+      },
+      {
+        "university": "단국대",
+        "field": "교육 > 체육"
+      },
+      {
+        "university": "덕성여대",
+        "field": "인문 > 영어영문"
+      },
+      {
+        "university": "덕성여대",
+        "field": "인문 > 체육"
+      },
+      {
+        "university": "동국대",
+        "field": "인문 > 영어영문"
+      },
+      {
+        "university": "동국대",
+        "field": "인문 > 철학"
+      },
+      {
+        "university": "동국대",
+        "field": "교육 > 국어교육"
+      },
+      {
+        "university": "동국대",
+        "field": "인문 > 체육"
+      },
+      {
+        "university": "서울대",
+        "field": "인문 > 체육"
+      },
+      {
+        "university": "서울시립대",
+        "field": "인문 > 영어영문"
+      },
+      {
+        "university": "서울시립대",
+        "field": "인문 > 철학"
+      },
+      {
+        "university": "서울시립대",
+        "field": "인문 > 체육"
+      },
+      {
+        "university": "숭실대",
+        "field": "인문 > 영어영문"
+      },
+      {
+        "university": "숭실대",
+        "field": "인문 > 철학"
+      },
+      {
+        "university": "숭실대",
+        "field": "사회 > 경영"
+      },
+      {
+        "university": "숭실대",
+        "field": "인문 > 체육"
+      },
+      {
+        "university": "영남대",
+        "field": "인문 > 영어영문"
+      },
+      {
+        "university": "영남대",
+        "field": "인문 > 철학"
+      },
+      {
+        "university": "영남대",
+        "field": "사회 > 경영"
+      },
+      {
+        "university": "영남대",
+        "field": "사회 > 심리"
+      },
+      {
+        "university": "영남대",
+        "field": "교육 > 국어교육"
+      },
+      {
+        "university": "영남대",
+        "field": "교육 > 수학교육"
+      },
+      {
+        "university": "영남대",
+        "field": "공학 > 기계공학"
+      },
+      {
+        "university": "영남대",
+        "field": "사회 > 체육"
+      },
+      {
+        "university": "전남대",
+        "field": "인문 > 철학"
+      },
+      {
+        "university": "전남대",
+        "field": "교육 > 국어교육"
+      },
+      {
+        "university": "전남대",
+        "field": "자연 > 체육"
+      },
+      {
+        "university": "전북대",
+        "field": "인문 > 영어영문"
+      },
+      {
+        "university": "전북대",
+        "field": "교육 > 국어교육"
+      },
+      {
+        "university": "전북대",
+        "field": "자연 > 체육"
+      },
+      {
+        "university": "조선대",
+        "field": "사회 > 심리"
+      },
+      {
+        "university": "조선대",
+        "field": "교육 > 국어교육"
+      },
+      {
+        "university": "조선대",
+        "field": "예체능 > 시각디자인"
+      },
+      {
+        "university": "조선대",
+        "field": "예체능 > 체육"
+      },
+      {
+        "university": "조선대",
+        "field": "자연 > 체육"
+      },
+      {
+        "university": "충북대",
+        "field": "인문 > 철학"
+      },
+      {
+        "university": "충북대",
+        "field": "교육 > 국어교육"
+      },
+      {
+        "university": "충북대",
+        "field": "교육 > 체육"
+      },
+      {
+        "university": "건국대",
+        "field": "인문 > 철학"
+      },
+      {
+        "university": "건국대",
+        "field": "인문 > 체육"
+      },
+      {
+        "university": "동아대",
+        "field": "인문 > 철학"
+      },
+      {
+        "university": "동아대",
+        "field": "의약 > 의예"
+      },
+      {
+        "university": "동아대",
+        "field": "예체능 > 시각디자인"
+      },
+      {
+        "university": "동아대",
+        "field": "예체능 > 체육"
+      },
+      {
+        "university": "동아대",
+        "field": "사회 > 체육"
+      },
+      {
+        "university": "충남대",
+        "field": "인문 > 철학"
+      },
+      {
+        "university": "충남대",
+        "field": "사회 > 심리"
+      },
+      {
+        "university": "충남대",
+        "field": "교육 > 국어교육"
+      },
+      {
+        "university": "충남대",
+        "field": "교육 > 체육"
+      },
+      {
+        "university": "국립한밭대",
+        "field": "예체능 > 시각디자인"
+      },
+      {
+        "university": "국립한밭대",
+        "field": "교육 > 체육"
+      },
+      {
+        "university": "부산대",
+        "field": "사회 > 체육"
+      },
+      {
+        "university": "아주대",
+        "field": "인문 > 체육"
+      },
+      {
+        "university": "서울과기대",
+        "field": "인문 > 체육"
+      },
+      {
+        "university": "전주대",
+        "field": "사회 > 경영"
+      },
+      {
+        "university": "전주대",
+        "field": "사회 > 심리"
+      },
+      {
+        "university": "전주대",
+        "field": "교육 > 국어교육"
+      },
+      {
+        "university": "전주대",
+        "field": "자연 > 체육"
+      },
+      {
+        "university": "한국기술교육대",
+        "field": "사회 > 경영"
+      },
+      {
+        "university": "한국기술교육대",
+        "field": "공학 > 기계공학"
+      },
+      {
+        "university": "한국기술교육대",
+        "field": "교육 > 체육"
+      },
+      {
+        "university": "한국항공대",
+        "field": "인문 > 체육"
+      },
+      {
+        "university": "경북대",
+        "field": "교육 > 국어교육"
+      },
+      {
+        "university": "경북대",
+        "field": "사회 > 체육"
+      },
+      {
+        "university": "고려대",
+        "field": "인문 > 체육"
+      },
+      {
+        "university": "경희대",
+        "field": "인문 > 체육"
+      },
+      {
+        "university": "국민대",
+        "field": "인문 > 체육"
+      },
+      {
+        "university": "인하대",
+        "field": "인문 > 체육"
+      },
+      {
+        "university": "원광대",
+        "field": "자연 > 체육"
+      },
+      {
+        "university": "경성대",
+        "field": "사회 > 체육"
+      },
+      {
+        "university": "한양대",
+        "field": "인문 > 체육"
+      },
+      {
+        "university": "한국체대",
+        "field": "인문 > 체육"
+      },
+      {
+        "university": "성결대",
+        "field": "인문 > 체육"
+      },
+      {
+        "university": "협성대",
+        "field": "인문 > 체육"
+      },
+      {
+        "university": "한라대",
+        "field": "교육 > 체육"
+      },
+      {
+        "university": "광주교육대",
+        "field": "자연 > 체육"
+      }
+    ],
+    "id": 55
+  },
+  {
+    "name": "경제 수학",
+    "subjectGroup": "수학",
+    "type": "진로",
+    "category": "학생선택(3학년)",
+    "baseCredit": 4,
+    "opCredit": 3,
+    "semesters": [],
+    "selectionGroup": "",
+    "targetGrades": [
+      "2026 신입생"
+    ],
+    "description": "경제 현상을 수학적으로 분석하고 이해하는 진로 선택 과목입니다.",
+    "relatedMajors": "",
+    "relatedJobs": "",
+    "recommendingUniversities": [],
+    "id": 56
+  },
+  {
+    "name": "미적분Ⅱ",
+    "subjectGroup": "수학",
+    "type": "진로",
+    "category": "학생선택(3학년)",
+    "baseCredit": 4,
+    "opCredit": 3,
+    "semesters": [],
+    "selectionGroup": "",
+    "targetGrades": [
+      "2026 신입생",
+      "2025 신입생"
+    ],
+    "description": "여러 가지 함수의 미분법과 적분법을 심화 학습하는 진로 선택 과목입니다.",
+    "relatedMajors": "",
+    "relatedJobs": "",
+    "recommendingUniversities": [
+      {
+        "university": "강원대",
+        "field": "교육 > 수학교육"
+      },
+      {
+        "university": "강원대",
+        "field": "자연 > 물리"
+      },
+      {
+        "university": "강원대",
+        "field": "공학 > 기계공학"
+      },
+      {
+        "university": "강원대",
+        "field": "의약 > 약학"
+      },
+      {
+        "university": "강원대",
+        "field": "의약 > 의예"
+      },
+      {
+        "university": "동국대",
+        "field": "사회 > 경영"
+      },
+      {
+        "university": "서울대",
+        "field": "교육 > 수학교육"
+      },
+      {
+        "university": "서울대",
+        "field": "자연 > 생명과학"
+      },
+      {
+        "university": "서울대",
+        "field": "자연 > 물리"
+      },
+      {
+        "university": "서울대",
+        "field": "공학 > 기계공학"
+      },
+      {
+        "university": "서울대",
+        "field": "의약 > 약학"
+      },
+      {
+        "university": "서울대",
+        "field": "의약 > 의예"
+      },
+      {
+        "university": "서울시립대",
+        "field": "공학 > 기계공학"
+      },
+      {
+        "university": "숭실대",
+        "field": "공학 > 기계공학"
+      },
+      {
+        "university": "충북대",
+        "field": "공학 > 기계공학"
+      },
+      {
+        "university": "건국대",
+        "field": "공학 > 기계공학"
+      },
+      {
+        "university": "동아대",
+        "field": "예체능 > 체육"
+      },
+      {
+        "university": "충남대",
+        "field": "자연 > 생명과학"
+      },
+      {
+        "university": "충남대",
+        "field": "공학 > 기계공학"
+      },
+      {
+        "university": "부산대",
+        "field": "사회 > 경영"
+      },
+      {
+        "university": "부산대",
+        "field": "교육 > 수학교육"
+      },
+      {
+        "university": "부산대",
+        "field": "자연 > 물리"
+      },
+      {
+        "university": "부산대",
+        "field": "공학 > 기계공학"
+      },
+      {
+        "university": "서울과기대",
+        "field": "사회 > 경영"
+      },
+      {
+        "university": "전주대",
+        "field": "공학 > 기계공학"
+      },
+      {
+        "university": "경북대",
+        "field": "의약 > 약학"
+      },
+      {
+        "university": "경북대",
+        "field": "의약 > 의예"
+      },
+      {
+        "university": "고려대",
+        "field": "교육 > 수학교육"
+      },
+      {
+        "university": "고려대",
+        "field": "자연 > 생명과학"
+      },
+      {
+        "university": "고려대",
+        "field": "자연 > 물리"
+      },
+      {
+        "university": "고려대",
+        "field": "공학 > 기계공학"
+      },
+      {
+        "university": "고려대",
+        "field": "의약 > 의예"
+      },
+      {
+        "university": "경희대",
+        "field": "자연 > 생명과학"
+      },
+      {
+        "university": "경희대",
+        "field": "의약 > 약학"
+      },
+      {
+        "university": "경희대",
+        "field": "의약 > 의예"
+      },
+      {
+        "university": "중앙대",
+        "field": "자연 > 생명과학"
+      },
+      {
+        "university": "중앙대",
+        "field": "자연 > 물리"
+      },
+      {
+        "university": "중앙대",
+        "field": "공학 > 기계공학"
+      },
+      {
+        "university": "중앙대",
+        "field": "의약 > 의예"
+      },
+      {
+        "university": "국민대",
+        "field": "공학 > 기계공학"
+      },
+      {
+        "university": "경성대",
+        "field": "의약 > 약학"
+      }
+    ],
+    "id": 57
+  },
+  {
+    "name": "미디어 영어",
+    "subjectGroup": "영어",
+    "type": "융합",
+    "category": "학생선택(3학년)",
+    "baseCredit": 4,
+    "opCredit": 3,
+    "semesters": [],
+    "selectionGroup": "",
+    "targetGrades": [
+      "2026 신입생",
+      "2025 신입생"
+    ],
+    "description": "뉴스, 영화, SNS 등 미디어 콘텐츠를 통해 영어 의사소통 능력을 기릅니다.",
+    "relatedMajors": "",
+    "relatedJobs": "",
+    "recommendingUniversities": [
+      {
+        "university": "강원대",
+        "field": "인문 > 영어영문"
+      },
+      {
+        "university": "강원대",
+        "field": "인문 > 철학"
+      },
+      {
+        "university": "강원대",
+        "field": "사회 > 경영"
+      },
+      {
+        "university": "강원대",
+        "field": "사회 > 심리"
+      },
+      {
+        "university": "강원대",
+        "field": "교육 > 수학교육"
+      },
+      {
+        "university": "강원대",
+        "field": "공학 > 기계공학"
+      },
+      {
+        "university": "강원대",
+        "field": "의약 > 의예"
+      },
+      {
+        "university": "강원대",
+        "field": "예체능 > 시각디자인"
+      },
+      {
+        "university": "광운대",
+        "field": "인문 > 영어영문"
+      },
+      {
+        "university": "광운대",
+        "field": "사회 > 경영"
+      },
+      {
+        "university": "광운대",
+        "field": "사회 > 심리"
+      },
+      {
+        "university": "덕성여대",
+        "field": "인문 > 영어영문"
+      },
+      {
+        "university": "동국대",
+        "field": "인문 > 영어영문"
+      },
+      {
+        "university": "동국대",
+        "field": "사회 > 경영"
+      },
+      {
+        "university": "숭실대",
+        "field": "인문 > 영어영문"
+      },
+      {
+        "university": "숭실대",
+        "field": "인문 > 철학"
+      },
+      {
+        "university": "영남대",
+        "field": "인문 > 영어영문"
+      },
+      {
+        "university": "영남대",
+        "field": "인문 > 철학"
+      },
+      {
+        "university": "영남대",
+        "field": "사회 > 경영"
+      },
+      {
+        "university": "영남대",
+        "field": "사회 > 심리"
+      },
+      {
+        "university": "영남대",
+        "field": "교육 > 국어교육"
+      },
+      {
+        "university": "전남대",
+        "field": "인문 > 영어영문"
+      },
+      {
+        "university": "전남대",
+        "field": "사회 > 심리"
+      },
+      {
+        "university": "전북대",
+        "field": "인문 > 영어영문"
+      },
+      {
+        "university": "조선대",
+        "field": "인문 > 영어영문"
+      },
+      {
+        "university": "조선대",
+        "field": "사회 > 심리"
+      },
+      {
+        "university": "충북대",
+        "field": "인문 > 영어영문"
+      },
+      {
+        "university": "충북대",
+        "field": "사회 > 경영"
+      },
+      {
+        "university": "충북대",
+        "field": "공학 > 기계공학"
+      },
+      {
+        "university": "충북대",
+        "field": "의약 > 의예"
+      },
+      {
+        "university": "건국대",
+        "field": "인문 > 철학"
+      },
+      {
+        "university": "동아대",
+        "field": "자연 > 생명과학"
+      },
+      {
+        "university": "동아대",
+        "field": "예체능 > 시각디자인"
+      },
+      {
+        "university": "동아대",
+        "field": "예체능 > 체육"
+      },
+      {
+        "university": "충남대",
+        "field": "인문 > 철학"
+      },
+      {
+        "university": "충남대",
+        "field": "사회 > 경영"
+      },
+      {
+        "university": "충남대",
+        "field": "사회 > 심리"
+      },
+      {
+        "university": "충남대",
+        "field": "교육 > 국어교육"
+      },
+      {
+        "university": "국립한밭대",
+        "field": "사회 > 경영"
+      },
+      {
+        "university": "국립한밭대",
+        "field": "예체능 > 시각디자인"
+      }
+    ],
+    "id": 58
+  },
+  {
+    "name": "동아시아 역사 기행",
+    "subjectGroup": "사회",
+    "type": "진로",
+    "category": "학생선택(3학년)",
+    "baseCredit": 4,
+    "opCredit": 3,
+    "semesters": [],
+    "selectionGroup": "",
+    "targetGrades": [
+      "2026 신입생",
+      "2025 신입생"
+    ],
+    "description": "동아시아 주요 역사 현장을 탐구하며 역사적 사고력을 기릅니다.",
+    "relatedMajors": "",
+    "relatedJobs": "",
+    "recommendingUniversities": [
+      {
+        "university": "강원대",
+        "field": "교육 > 국어교육"
+      },
+      {
+        "university": "광운대",
+        "field": "자연 > 물리"
+      },
+      {
+        "university": "덕성여대",
+        "field": "의약 > 약학"
+      },
+      {
+        "university": "동국대",
+        "field": "인문 > 영어영문"
+      },
+      {
+        "university": "동국대",
+        "field": "자연 > 생명과학"
+      },
+      {
+        "university": "동국대",
+        "field": "자연 > 물리"
+      },
+      {
+        "university": "동국대",
+        "field": "의약 > 약학"
+      },
+      {
+        "university": "서울시립대",
+        "field": "자연 > 물리"
+      },
+      {
+        "university": "숭실대",
+        "field": "자연 > 물리"
+      },
+      {
+        "university": "영남대",
+        "field": "사회 > 심리"
+      },
+      {
+        "university": "영남대",
+        "field": "자연 > 생명과학"
+      },
+      {
+        "university": "영남대",
+        "field": "자연 > 물리"
+      },
+      {
+        "university": "영남대",
+        "field": "공학 > 기계공학"
+      },
+      {
+        "university": "영남대",
+        "field": "의약 > 약학"
+      },
+      {
+        "university": "영남대",
+        "field": "의약 > 의예"
+      },
+      {
+        "university": "전남대",
+        "field": "공학 > 기계공학"
+      },
+      {
+        "university": "동아대",
+        "field": "예체능 > 체육"
+      },
+      {
+        "university": "충남대",
+        "field": "공학 > 기계공학"
+      },
+      {
+        "university": "충남대",
+        "field": "의약 > 의예"
+      },
+      {
+        "university": "아주대",
+        "field": "사회 > 경영"
+      },
+      {
+        "university": "서울과기대",
+        "field": "자연 > 생명과학"
+      },
+      {
+        "university": "서울과기대",
+        "field": "공학 > 기계공학"
+      },
+      {
+        "university": "가톨릭대",
+        "field": "의약 > 약학"
+      },
+      {
+        "university": "가톨릭대",
+        "field": "의약 > 의예"
+      },
+      {
+        "university": "경북대",
+        "field": "공학 > 기계공학"
+      },
+      {
+        "university": "경희대",
+        "field": "자연 > 물리"
+      },
+      {
+        "university": "경희대",
+        "field": "공학 > 기계공학"
+      },
+      {
+        "university": "원광대",
+        "field": "공학 > 기계공학"
+      },
+      {
+        "university": "원광대",
+        "field": "의약 > 의예"
+      }
+    ],
+    "id": 59
+  },
+  {
+    "name": "인문학과 윤리",
+    "subjectGroup": "사회",
+    "type": "진로",
+    "category": "학생선택(3학년)",
+    "baseCredit": 4,
+    "opCredit": 3,
+    "semesters": [],
+    "selectionGroup": "",
+    "targetGrades": [
+      "2026 신입생",
+      "2025 신입생"
+    ],
+    "description": "인문학적 관점에서 윤리 문제를 깊이 있게 탐구하는 진로 선택 과목입니다.",
+    "relatedMajors": "",
+    "relatedJobs": "",
+    "recommendingUniversities": [
+      {
+        "university": "강원대",
+        "field": "인문 > 철학"
+      },
+      {
+        "university": "광운대",
+        "field": "인문 > 영어영문"
+      },
+      {
+        "university": "광운대",
+        "field": "사회 > 경영"
+      },
+      {
+        "university": "광운대",
+        "field": "사회 > 심리"
+      },
+      {
+        "university": "동국대",
+        "field": "인문 > 영어영문"
+      },
+      {
+        "university": "동국대",
+        "field": "인문 > 철학"
+      },
+      {
+        "university": "전남대",
+        "field": "인문 > 철학"
+      }
+    ],
+    "id": 60
+  },
+  {
+    "name": "정치",
+    "subjectGroup": "사회",
+    "type": "진로",
+    "category": "학생선택(3학년)",
+    "baseCredit": 4,
+    "opCredit": 3,
+    "semesters": [],
+    "selectionGroup": "",
+    "targetGrades": [
+      "2026 신입생",
+      "2025 신입생"
+    ],
+    "description": "민주주의, 정치 과정, 국제 정치를 탐구하는 진로 선택 과목입니다.",
+    "relatedMajors": "",
+    "relatedJobs": "",
+    "recommendingUniversities": [
+      {
+        "university": "강원대",
+        "field": "사회 > 심리"
+      },
+      {
+        "university": "광운대",
+        "field": "인문 > 영어영문"
+      },
+      {
+        "university": "광운대",
+        "field": "사회 > 경영"
+      },
+      {
+        "university": "광운대",
+        "field": "사회 > 심리"
+      },
+      {
+        "university": "광운대",
+        "field": "자연 > 물리"
+      },
+      {
+        "university": "광운대",
+        "field": "공학 > 기계공학"
+      },
+      {
+        "university": "단국대",
+        "field": "교육 > 수학교육"
+      },
+      {
+        "university": "단국대",
+        "field": "공학 > 기계공학"
+      },
+      {
+        "university": "덕성여대",
+        "field": "인문 > 영어영문"
+      },
+      {
+        "university": "동국대",
+        "field": "인문 > 영어영문"
+      },
+      {
+        "university": "동국대",
+        "field": "사회 > 경영"
+      },
+      {
+        "university": "동국대",
+        "field": "교육 > 국어교육"
+      },
+      {
+        "university": "동국대",
+        "field": "자연 > 생명과학"
+      },
+      {
+        "university": "동국대",
+        "field": "자연 > 물리"
+      },
+      {
+        "university": "숭실대",
+        "field": "인문 > 영어영문"
+      },
+      {
+        "university": "숭실대",
+        "field": "인문 > 철학"
+      },
+      {
+        "university": "숭실대",
+        "field": "사회 > 경영"
+      },
+      {
+        "university": "숭실대",
+        "field": "자연 > 물리"
+      },
+      {
+        "university": "영남대",
+        "field": "인문 > 영어영문"
+      },
+      {
+        "university": "영남대",
+        "field": "인문 > 철학"
+      },
+      {
+        "university": "영남대",
+        "field": "사회 > 경영"
+      },
+      {
+        "university": "영남대",
+        "field": "사회 > 심리"
+      },
+      {
+        "university": "영남대",
+        "field": "교육 > 국어교육"
+      },
+      {
+        "university": "영남대",
+        "field": "교육 > 수학교육"
+      },
+      {
+        "university": "영남대",
+        "field": "자연 > 생명과학"
+      },
+      {
+        "university": "영남대",
+        "field": "자연 > 물리"
+      },
+      {
+        "university": "영남대",
+        "field": "공학 > 기계공학"
+      },
+      {
+        "university": "영남대",
+        "field": "의약 > 약학"
+      },
+      {
+        "university": "영남대",
+        "field": "의약 > 의예"
+      },
+      {
+        "university": "전남대",
+        "field": "인문 > 영어영문"
+      },
+      {
+        "university": "전남대",
+        "field": "사회 > 심리"
+      },
+      {
+        "university": "전남대",
+        "field": "자연 > 물리"
+      },
+      {
+        "university": "전남대",
+        "field": "공학 > 기계공학"
+      },
+      {
+        "university": "전북대",
+        "field": "자연 > 생명과학"
+      },
+      {
+        "university": "전북대",
+        "field": "자연 > 물리"
+      },
+      {
+        "university": "전북대",
+        "field": "공학 > 기계공학"
+      },
+      {
+        "university": "조선대",
+        "field": "공학 > 기계공학"
+      },
+      {
+        "university": "조선대",
+        "field": "의약 > 의예"
+      },
+      {
+        "university": "조선대",
+        "field": "예체능 > 시각디자인"
+      },
+      {
+        "university": "충북대",
+        "field": "인문 > 영어영문"
+      },
+      {
+        "university": "충북대",
+        "field": "인문 > 철학"
+      },
+      {
+        "university": "충북대",
+        "field": "교육 > 수학교육"
+      },
+      {
+        "university": "충북대",
+        "field": "자연 > 물리"
+      },
+      {
+        "university": "충북대",
+        "field": "공학 > 기계공학"
+      },
+      {
+        "university": "건국대",
+        "field": "인문 > 철학"
+      },
+      {
+        "university": "동아대",
+        "field": "인문 > 철학"
+      },
+      {
+        "university": "동아대",
+        "field": "자연 > 물리"
+      },
+      {
+        "university": "동아대",
+        "field": "공학 > 기계공학"
+      },
+      {
+        "university": "동아대",
+        "field": "의약 > 의예"
+      },
+      {
+        "university": "동아대",
+        "field": "예체능 > 체육"
+      },
+      {
+        "university": "충남대",
+        "field": "사회 > 경영"
+      },
+      {
+        "university": "충남대",
+        "field": "사회 > 심리"
+      },
+      {
+        "university": "충남대",
+        "field": "교육 > 국어교육"
+      },
+      {
+        "university": "충남대",
+        "field": "교육 > 수학교육"
+      },
+      {
+        "university": "충남대",
+        "field": "자연 > 물리"
+      },
+      {
+        "university": "국립한밭대",
+        "field": "사회 > 경영"
+      },
+      {
+        "university": "아주대",
+        "field": "사회 > 경영"
+      },
+      {
+        "university": "아주대",
+        "field": "사회 > 심리"
+      },
+      {
+        "university": "아주대",
+        "field": "자연 > 물리"
+      },
+      {
+        "university": "아주대",
+        "field": "공학 > 기계공학"
+      },
+      {
+        "university": "아주대",
+        "field": "의약 > 의예"
+      },
+      {
+        "university": "서울과기대",
+        "field": "자연 > 생명과학"
+      },
+      {
+        "university": "서울과기대",
+        "field": "공학 > 기계공학"
+      },
+      {
+        "university": "한국기술교육대",
+        "field": "공학 > 기계공학"
+      },
+      {
+        "university": "한국항공대",
+        "field": "공학 > 기계공학"
+      },
+      {
+        "university": "가톨릭대",
+        "field": "자연 > 물리"
+      },
+      {
+        "university": "가톨릭대",
+        "field": "공학 > 기계공학"
+      },
+      {
+        "university": "경북대",
+        "field": "자연 > 물리"
+      },
+      {
+        "university": "경북대",
+        "field": "공학 > 기계공학"
+      },
+      {
+        "university": "경희대",
+        "field": "자연 > 물리"
+      },
+      {
+        "university": "경희대",
+        "field": "공학 > 기계공학"
+      }
+    ],
+    "id": 61
+  },
+  {
+    "name": "기후변화와 지속가능한 세계",
+    "subjectGroup": "사회",
+    "type": "융합",
+    "category": "학생선택(3학년)",
+    "baseCredit": 4,
+    "opCredit": 3,
+    "semesters": [],
+    "selectionGroup": "",
+    "targetGrades": [
+      "2026 신입생",
+      "2025 신입생"
+    ],
+    "description": "기후변화의 원인과 영향, 지속가능한 발전 방안을 탐구합니다.",
+    "relatedMajors": "",
+    "relatedJobs": "",
+    "recommendingUniversities": [],
+    "id": 62
+  },
+  {
+    "name": "전자기와 양자",
+    "subjectGroup": "과학",
+    "type": "진로",
+    "category": "학생선택(3학년)",
+    "baseCredit": 4,
+    "opCredit": 3,
+    "semesters": [],
+    "selectionGroup": "",
+    "targetGrades": [
+      "2026 신입생",
+      "2025 신입생"
+    ],
+    "description": "전자기 현상과 양자역학의 기본 개념을 학습하는 진로 선택 과목입니다.",
+    "relatedMajors": "",
+    "relatedJobs": "",
+    "recommendingUniversities": [
+      {
+        "university": "강원대",
+        "field": "자연 > 물리"
+      },
+      {
+        "university": "강원대",
+        "field": "공학 > 기계공학"
+      },
+      {
+        "university": "서울대",
+        "field": "교육 > 수학교육"
+      },
+      {
+        "university": "서울대",
+        "field": "자연 > 물리"
+      },
+      {
+        "university": "서울대",
+        "field": "공학 > 기계공학"
+      },
+      {
+        "university": "서울시립대",
+        "field": "공학 > 기계공학"
+      },
+      {
+        "university": "숭실대",
+        "field": "공학 > 기계공학"
+      },
+      {
+        "university": "전북대",
+        "field": "공학 > 기계공학"
+      },
+      {
+        "university": "조선대",
+        "field": "예체능 > 시각디자인"
+      },
+      {
+        "university": "충북대",
+        "field": "공학 > 기계공학"
+      },
+      {
+        "university": "충북대",
+        "field": "의약 > 의예"
+      },
+      {
+        "university": "건국대",
+        "field": "공학 > 기계공학"
+      },
+      {
+        "university": "동아대",
+        "field": "자연 > 생명과학"
+      },
+      {
+        "university": "충남대",
+        "field": "공학 > 기계공학"
+      },
+      {
+        "university": "부산대",
+        "field": "자연 > 물리"
+      },
+      {
+        "university": "부산대",
+        "field": "공학 > 기계공학"
+      },
+      {
+        "university": "서울과기대",
+        "field": "자연 > 물리"
+      },
+      {
+        "university": "경북대",
+        "field": "의약 > 약학"
+      },
+      {
+        "university": "경북대",
+        "field": "의약 > 의예"
+      },
+      {
+        "university": "고려대",
+        "field": "자연 > 물리"
+      },
+      {
+        "university": "고려대",
+        "field": "공학 > 기계공학"
+      },
+      {
+        "university": "경희대",
+        "field": "의약 > 의예"
+      },
+      {
+        "university": "중앙대",
+        "field": "자연 > 물리"
+      },
+      {
+        "university": "중앙대",
+        "field": "공학 > 기계공학"
+      },
+      {
+        "university": "국민대",
+        "field": "자연 > 물리"
+      },
+      {
+        "university": "국민대",
+        "field": "공학 > 기계공학"
+      },
+      {
+        "university": "인하대",
+        "field": "자연 > 물리"
+      },
+      {
+        "university": "인하대",
+        "field": "공학 > 기계공학"
+      },
+      {
+        "university": "경기대",
+        "field": "자연 > 물리"
+      }
+    ],
+    "id": 63
+  },
+  {
+    "name": "화학 반응의 세계",
+    "subjectGroup": "과학",
+    "type": "진로",
+    "category": "학생선택(3학년)",
+    "baseCredit": 4,
+    "opCredit": 3,
+    "semesters": [],
+    "selectionGroup": "",
+    "targetGrades": [
+      "2026 신입생",
+      "2025 신입생"
+    ],
+    "description": "다양한 화학 반응의 원리와 응용을 탐구하는 진로 선택 과목입니다.",
+    "relatedMajors": "",
+    "relatedJobs": "",
+    "recommendingUniversities": [
+      {
+        "university": "강원대",
+        "field": "자연 > 생명과학"
+      },
+      {
+        "university": "강원대",
+        "field": "자연 > 물리"
+      },
+      {
+        "university": "강원대",
+        "field": "공학 > 기계공학"
+      },
+      {
+        "university": "강원대",
+        "field": "의약 > 약학"
+      },
+      {
+        "university": "강원대",
+        "field": "의약 > 의예"
+      },
+      {
+        "university": "서울대",
+        "field": "자연 > 물리"
+      },
+      {
+        "university": "서울대",
+        "field": "의약 > 약학"
+      },
+      {
+        "university": "서울시립대",
+        "field": "자연 > 생명과학"
+      },
+      {
+        "university": "영남대",
+        "field": "인문 > 철학"
+      },
+      {
+        "university": "영남대",
+        "field": "사회 > 경영"
+      },
+      {
+        "university": "전남대",
+        "field": "자연 > 물리"
+      },
+      {
+        "university": "충북대",
+        "field": "인문 > 영어영문"
+      },
+      {
+        "university": "충남대",
+        "field": "자연 > 생명과학"
+      },
+      {
+        "university": "부산대",
+        "field": "자연 > 생명과학"
+      },
+      {
+        "university": "부산대",
+        "field": "자연 > 물리"
+      },
+      {
+        "university": "부산대",
+        "field": "공학 > 기계공학"
+      },
+      {
+        "university": "부산대",
+        "field": "의약 > 약학"
+      },
+      {
+        "university": "부산대",
+        "field": "의약 > 의예"
+      },
+      {
+        "university": "서울과기대",
+        "field": "자연 > 물리"
+      },
+      {
+        "university": "가톨릭대",
+        "field": "자연 > 생명과학"
+      },
+      {
+        "university": "가톨릭대",
+        "field": "자연 > 물리"
+      },
+      {
+        "university": "경북대",
+        "field": "자연 > 생명과학"
+      },
+      {
+        "university": "경북대",
+        "field": "자연 > 물리"
+      },
+      {
+        "university": "경북대",
+        "field": "의약 > 약학"
+      },
+      {
+        "university": "경북대",
+        "field": "의약 > 의예"
+      },
+      {
+        "university": "고려대",
+        "field": "자연 > 생명과학"
+      },
+      {
+        "university": "고려대",
+        "field": "자연 > 물리"
+      },
+      {
+        "university": "고려대",
+        "field": "의약 > 의예"
+      },
+      {
+        "university": "경희대",
+        "field": "자연 > 생명과학"
+      },
+      {
+        "university": "경희대",
+        "field": "의약 > 약학"
+      },
+      {
+        "university": "경희대",
+        "field": "의약 > 의예"
+      },
+      {
+        "university": "중앙대",
+        "field": "자연 > 생명과학"
+      },
+      {
+        "university": "중앙대",
+        "field": "자연 > 물리"
+      },
+      {
+        "university": "중앙대",
+        "field": "공학 > 기계공학"
+      },
+      {
+        "university": "중앙대",
+        "field": "의약 > 의예"
+      },
+      {
+        "university": "국민대",
+        "field": "자연 > 물리"
+      },
+      {
+        "university": "인하대",
+        "field": "공학 > 기계공학"
+      },
+      {
+        "university": "경성대",
+        "field": "의약 > 약학"
+      },
+      {
+        "university": "한양대",
+        "field": "의약 > 약학"
+      }
+    ],
+    "id": 64
+  },
+  {
+    "name": "생물의 유전",
+    "subjectGroup": "과학",
+    "type": "진로",
+    "category": "학생선택(3학년)",
+    "baseCredit": 4,
+    "opCredit": 3,
+    "semesters": [
+      "3-1"
+    ],
+    "selectionGroup": "",
+    "targetGrades": [
+      "2026 신입생",
+      "2025 신입생"
+    ],
+    "description": "유전의 원리, DNA, 유전공학을 심화 학습하는 진로 선택 과목입니다.",
+    "relatedMajors": "",
+    "relatedJobs": "",
+    "recommendingUniversities": [
+      {
+        "university": "강원대",
+        "field": "교육 > 수학교육"
+      },
+      {
+        "university": "강원대",
+        "field": "자연 > 생명과학"
+      },
+      {
+        "university": "강원대",
+        "field": "자연 > 물리"
+      },
+      {
+        "university": "강원대",
+        "field": "의약 > 약학"
+      },
+      {
+        "university": "강원대",
+        "field": "의약 > 의예"
+      },
+      {
+        "university": "서울대",
+        "field": "자연 > 생명과학"
+      },
+      {
+        "university": "서울대",
+        "field": "의약 > 약학"
+      },
+      {
+        "university": "서울대",
+        "field": "의약 > 의예"
+      },
+      {
+        "university": "서울시립대",
+        "field": "자연 > 생명과학"
+      },
+      {
+        "university": "충남대",
+        "field": "자연 > 생명과학"
+      },
+      {
+        "university": "부산대",
+        "field": "자연 > 생명과학"
+      },
+      {
+        "university": "부산대",
+        "field": "자연 > 물리"
+      },
+      {
+        "university": "부산대",
+        "field": "의약 > 약학"
+      },
+      {
+        "university": "부산대",
+        "field": "의약 > 의예"
+      },
+      {
+        "university": "가톨릭대",
+        "field": "자연 > 생명과학"
+      },
+      {
+        "university": "경북대",
+        "field": "자연 > 생명과학"
+      },
+      {
+        "university": "경북대",
+        "field": "자연 > 물리"
+      },
+      {
+        "university": "경북대",
+        "field": "의약 > 약학"
+      },
+      {
+        "university": "경북대",
+        "field": "의약 > 의예"
+      },
+      {
+        "university": "고려대",
+        "field": "자연 > 생명과학"
+      },
+      {
+        "university": "고려대",
+        "field": "의약 > 의예"
+      },
+      {
+        "university": "경희대",
+        "field": "자연 > 생명과학"
+      },
+      {
+        "university": "경희대",
+        "field": "의약 > 약학"
+      },
+      {
+        "university": "경희대",
+        "field": "의약 > 의예"
+      },
+      {
+        "university": "중앙대",
+        "field": "자연 > 생명과학"
+      },
+      {
+        "university": "중앙대",
+        "field": "자연 > 물리"
+      },
+      {
+        "university": "중앙대",
+        "field": "공학 > 기계공학"
+      },
+      {
+        "university": "중앙대",
+        "field": "의약 > 의예"
+      },
+      {
+        "university": "경성대",
+        "field": "의약 > 약학"
+      },
+      {
+        "university": "한양대",
+        "field": "의약 > 약학"
+      }
+    ],
+    "id": 65
+  },
+  {
+    "name": "지구시스템과학",
+    "subjectGroup": "과학",
+    "type": "진로",
+    "category": "학생선택(3학년)",
+    "baseCredit": 4,
+    "opCredit": 3,
+    "semesters": [],
+    "selectionGroup": "",
+    "targetGrades": [
+      "2026 신입생",
+      "2025 신입생"
+    ],
+    "description": "지구를 하나의 시스템으로 이해하고 상호작용을 탐구하는 진로 선택 과목입니다.",
+    "relatedMajors": "",
+    "relatedJobs": "",
+    "recommendingUniversities": [],
+    "id": 66
+  },
+  {
+    "name": "행성우주과학",
+    "subjectGroup": "과학",
+    "type": "진로",
+    "category": "학생선택(3학년)",
+    "baseCredit": 4,
+    "opCredit": 3,
+    "semesters": [],
+    "selectionGroup": "",
+    "targetGrades": [
+      "2026 신입생",
+      "2025 신입생"
+    ],
+    "description": "태양계, 항성, 은하, 우주론을 탐구하는 진로 선택 과목입니다.",
+    "relatedMajors": "",
+    "relatedJobs": "",
+    "recommendingUniversities": [],
+    "id": 67
+  },
+  {
+    "name": "주제 탐구 독서",
+    "subjectGroup": "국어",
+    "type": "진로",
+    "category": "학생선택(3학년)",
+    "baseCredit": 4,
+    "opCredit": 3,
+    "semesters": [
+      "3-2"
+    ],
+    "selectionGroup": "[택8]24",
+    "targetGrades": [
+      "2026 신입생",
+      "2025 신입생"
+    ],
+    "description": "특정 주제에 대해 깊이 있는 독서를 하고, 그 결과를 다양한 형태로 표현하는 능력을 기릅니다.",
+    "relatedMajors": "",
+    "relatedJobs": "",
+    "recommendingUniversities": [
+      {
+        "university": "강원대",
+        "field": "인문 > 철학"
+      },
+      {
+        "university": "강원대",
+        "field": "사회 > 경영"
+      },
+      {
+        "university": "강원대",
+        "field": "사회 > 심리"
+      },
+      {
+        "university": "강원대",
+        "field": "교육 > 국어교육"
+      },
+      {
+        "university": "강원대",
+        "field": "의약 > 의예"
+      },
+      {
+        "university": "강원대",
+        "field": "예체능 > 시각디자인"
+      },
+      {
+        "university": "강원대",
+        "field": "교육 > 체육"
+      },
+      {
+        "university": "광운대",
+        "field": "인문 > 영어영문"
+      },
+      {
+        "university": "광운대",
+        "field": "사회 > 경영"
+      },
+      {
+        "university": "광운대",
+        "field": "사회 > 심리"
+      },
+      {
+        "university": "광운대",
+        "field": "인문 > 체육"
+      },
+      {
+        "university": "단국대",
+        "field": "인문 > 영어영문"
+      },
+      {
+        "university": "단국대",
+        "field": "인문 > 철학"
+      },
+      {
+        "university": "단국대",
+        "field": "사회 > 경영"
+      },
+      {
+        "university": "단국대",
+        "field": "교육 > 국어교육"
+      },
+      {
+        "university": "단국대",
+        "field": "교육 > 수학교육"
+      },
+      {
+        "university": "단국대",
+        "field": "공학 > 기계공학"
+      },
+      {
+        "university": "단국대",
+        "field": "인문 > 체육"
+      },
+      {
+        "university": "단국대",
+        "field": "교육 > 체육"
+      },
+      {
+        "university": "덕성여대",
+        "field": "인문 > 영어영문"
+      },
+      {
+        "university": "덕성여대",
+        "field": "인문 > 체육"
+      },
+      {
+        "university": "동국대",
+        "field": "인문 > 영어영문"
+      },
+      {
+        "university": "동국대",
+        "field": "인문 > 철학"
+      },
+      {
+        "university": "동국대",
+        "field": "교육 > 국어교육"
+      },
+      {
+        "university": "동국대",
+        "field": "인문 > 체육"
+      },
+      {
+        "university": "서울대",
+        "field": "인문 > 체육"
+      },
+      {
+        "university": "서울시립대",
+        "field": "인문 > 영어영문"
+      },
+      {
+        "university": "서울시립대",
+        "field": "인문 > 철학"
+      },
+      {
+        "university": "서울시립대",
+        "field": "인문 > 체육"
+      },
+      {
+        "university": "숭실대",
+        "field": "인문 > 영어영문"
+      },
+      {
+        "university": "숭실대",
+        "field": "인문 > 철학"
+      },
+      {
+        "university": "숭실대",
+        "field": "사회 > 경영"
+      },
+      {
+        "university": "숭실대",
+        "field": "인문 > 체육"
+      },
+      {
+        "university": "영남대",
+        "field": "인문 > 영어영문"
+      },
+      {
+        "university": "영남대",
+        "field": "인문 > 철학"
+      },
+      {
+        "university": "영남대",
+        "field": "사회 > 경영"
+      },
+      {
+        "university": "영남대",
+        "field": "사회 > 심리"
+      },
+      {
+        "university": "영남대",
+        "field": "교육 > 국어교육"
+      },
+      {
+        "university": "영남대",
+        "field": "교육 > 수학교육"
+      },
+      {
+        "university": "영남대",
+        "field": "공학 > 기계공학"
+      },
+      {
+        "university": "영남대",
+        "field": "사회 > 체육"
+      },
+      {
+        "university": "전남대",
+        "field": "인문 > 철학"
+      },
+      {
+        "university": "전남대",
+        "field": "교육 > 국어교육"
+      },
+      {
+        "university": "전남대",
+        "field": "자연 > 체육"
+      },
+      {
+        "university": "전북대",
+        "field": "인문 > 영어영문"
+      },
+      {
+        "university": "전북대",
+        "field": "교육 > 국어교육"
+      },
+      {
+        "university": "전북대",
+        "field": "자연 > 체육"
+      },
+      {
+        "university": "조선대",
+        "field": "사회 > 심리"
+      },
+      {
+        "university": "조선대",
+        "field": "교육 > 국어교육"
+      },
+      {
+        "university": "조선대",
+        "field": "예체능 > 시각디자인"
+      },
+      {
+        "university": "조선대",
+        "field": "예체능 > 체육"
+      },
+      {
+        "university": "조선대",
+        "field": "자연 > 체육"
+      },
+      {
+        "university": "충북대",
+        "field": "인문 > 철학"
+      },
+      {
+        "university": "충북대",
+        "field": "교육 > 국어교육"
+      },
+      {
+        "university": "충북대",
+        "field": "교육 > 체육"
+      },
+      {
+        "university": "건국대",
+        "field": "인문 > 철학"
+      },
+      {
+        "university": "건국대",
+        "field": "인문 > 체육"
+      },
+      {
+        "university": "동아대",
+        "field": "인문 > 철학"
+      },
+      {
+        "university": "동아대",
+        "field": "의약 > 의예"
+      },
+      {
+        "university": "동아대",
+        "field": "예체능 > 시각디자인"
+      },
+      {
+        "university": "동아대",
+        "field": "예체능 > 체육"
+      },
+      {
+        "university": "동아대",
+        "field": "사회 > 체육"
+      },
+      {
+        "university": "충남대",
+        "field": "인문 > 철학"
+      },
+      {
+        "university": "충남대",
+        "field": "사회 > 심리"
+      },
+      {
+        "university": "충남대",
+        "field": "교육 > 국어교육"
+      },
+      {
+        "university": "충남대",
+        "field": "교육 > 체육"
+      },
+      {
+        "university": "국립한밭대",
+        "field": "예체능 > 시각디자인"
+      },
+      {
+        "university": "국립한밭대",
+        "field": "교육 > 체육"
+      },
+      {
+        "university": "부산대",
+        "field": "사회 > 체육"
+      },
+      {
+        "university": "아주대",
+        "field": "인문 > 체육"
+      },
+      {
+        "university": "서울과기대",
+        "field": "인문 > 체육"
+      },
+      {
+        "university": "전주대",
+        "field": "사회 > 경영"
+      },
+      {
+        "university": "전주대",
+        "field": "사회 > 심리"
+      },
+      {
+        "university": "전주대",
+        "field": "교육 > 국어교육"
+      },
+      {
+        "university": "전주대",
+        "field": "자연 > 체육"
+      },
+      {
+        "university": "한국기술교육대",
+        "field": "사회 > 경영"
+      },
+      {
+        "university": "한국기술교육대",
+        "field": "공학 > 기계공학"
+      },
+      {
+        "university": "한국기술교육대",
+        "field": "교육 > 체육"
+      },
+      {
+        "university": "한국항공대",
+        "field": "인문 > 체육"
+      },
+      {
+        "university": "경북대",
+        "field": "교육 > 국어교육"
+      },
+      {
+        "university": "경북대",
+        "field": "사회 > 체육"
+      },
+      {
+        "university": "고려대",
+        "field": "인문 > 체육"
+      },
+      {
+        "university": "경희대",
+        "field": "인문 > 체육"
+      },
+      {
+        "university": "국민대",
+        "field": "인문 > 체육"
+      },
+      {
+        "university": "인하대",
+        "field": "인문 > 체육"
+      },
+      {
+        "university": "원광대",
+        "field": "자연 > 체육"
+      },
+      {
+        "university": "경성대",
+        "field": "사회 > 체육"
+      },
+      {
+        "university": "한양대",
+        "field": "인문 > 체육"
+      },
+      {
+        "university": "한국체대",
+        "field": "인문 > 체육"
+      },
+      {
+        "university": "성결대",
+        "field": "인문 > 체육"
+      },
+      {
+        "university": "협성대",
+        "field": "인문 > 체육"
+      },
+      {
+        "university": "한라대",
+        "field": "교육 > 체육"
+      },
+      {
+        "university": "광주교육대",
+        "field": "자연 > 체육"
+      }
+    ],
+    "id": 68
+  },
+  {
+    "name": "매체 의사소통",
+    "subjectGroup": "국어",
+    "type": "융합",
+    "category": "학생선택(3학년)",
+    "baseCredit": 4,
+    "opCredit": 3,
+    "semesters": [],
+    "selectionGroup": "",
+    "targetGrades": [
+      "2026 신입생",
+      "2025 신입생"
+    ],
+    "description": "다양한 매체를 활용하여 효과적으로 의사소통하는 능력을 기르는 융합 선택 과목입니다.",
+    "relatedMajors": "",
+    "relatedJobs": "",
+    "recommendingUniversities": [
+      {
+        "university": "강원대",
+        "field": "인문 > 철학"
+      },
+      {
+        "university": "강원대",
+        "field": "사회 > 경영"
+      },
+      {
+        "university": "강원대",
+        "field": "사회 > 심리"
+      },
+      {
+        "university": "강원대",
+        "field": "교육 > 국어교육"
+      },
+      {
+        "university": "강원대",
+        "field": "의약 > 의예"
+      },
+      {
+        "university": "강원대",
+        "field": "예체능 > 시각디자인"
+      },
+      {
+        "university": "강원대",
+        "field": "교육 > 체육"
+      },
+      {
+        "university": "광운대",
+        "field": "인문 > 영어영문"
+      },
+      {
+        "university": "광운대",
+        "field": "사회 > 경영"
+      },
+      {
+        "university": "광운대",
+        "field": "사회 > 심리"
+      },
+      {
+        "university": "광운대",
+        "field": "인문 > 체육"
+      },
+      {
+        "university": "단국대",
+        "field": "인문 > 영어영문"
+      },
+      {
+        "university": "단국대",
+        "field": "인문 > 철학"
+      },
+      {
+        "university": "단국대",
+        "field": "사회 > 경영"
+      },
+      {
+        "university": "단국대",
+        "field": "교육 > 국어교육"
+      },
+      {
+        "university": "단국대",
+        "field": "교육 > 수학교육"
+      },
+      {
+        "university": "단국대",
+        "field": "공학 > 기계공학"
+      },
+      {
+        "university": "단국대",
+        "field": "인문 > 체육"
+      },
+      {
+        "university": "단국대",
+        "field": "교육 > 체육"
+      },
+      {
+        "university": "덕성여대",
+        "field": "인문 > 영어영문"
+      },
+      {
+        "university": "덕성여대",
+        "field": "인문 > 체육"
+      },
+      {
+        "university": "동국대",
+        "field": "인문 > 영어영문"
+      },
+      {
+        "university": "동국대",
+        "field": "인문 > 철학"
+      },
+      {
+        "university": "동국대",
+        "field": "교육 > 국어교육"
+      },
+      {
+        "university": "동국대",
+        "field": "인문 > 체육"
+      },
+      {
+        "university": "서울대",
+        "field": "인문 > 체육"
+      },
+      {
+        "university": "서울시립대",
+        "field": "인문 > 영어영문"
+      },
+      {
+        "university": "서울시립대",
+        "field": "인문 > 철학"
+      },
+      {
+        "university": "서울시립대",
+        "field": "인문 > 체육"
+      },
+      {
+        "university": "숭실대",
+        "field": "인문 > 영어영문"
+      },
+      {
+        "university": "숭실대",
+        "field": "인문 > 철학"
+      },
+      {
+        "university": "숭실대",
+        "field": "사회 > 경영"
+      },
+      {
+        "university": "숭실대",
+        "field": "인문 > 체육"
+      },
+      {
+        "university": "영남대",
+        "field": "인문 > 영어영문"
+      },
+      {
+        "university": "영남대",
+        "field": "인문 > 철학"
+      },
+      {
+        "university": "영남대",
+        "field": "사회 > 경영"
+      },
+      {
+        "university": "영남대",
+        "field": "사회 > 심리"
+      },
+      {
+        "university": "영남대",
+        "field": "교육 > 국어교육"
+      },
+      {
+        "university": "영남대",
+        "field": "교육 > 수학교육"
+      },
+      {
+        "university": "영남대",
+        "field": "공학 > 기계공학"
+      },
+      {
+        "university": "영남대",
+        "field": "사회 > 체육"
+      },
+      {
+        "university": "전남대",
+        "field": "인문 > 철학"
+      },
+      {
+        "university": "전남대",
+        "field": "교육 > 국어교육"
+      },
+      {
+        "university": "전남대",
+        "field": "자연 > 체육"
+      },
+      {
+        "university": "전북대",
+        "field": "인문 > 영어영문"
+      },
+      {
+        "university": "전북대",
+        "field": "교육 > 국어교육"
+      },
+      {
+        "university": "전북대",
+        "field": "자연 > 체육"
+      },
+      {
+        "university": "조선대",
+        "field": "사회 > 심리"
+      },
+      {
+        "university": "조선대",
+        "field": "교육 > 국어교육"
+      },
+      {
+        "university": "조선대",
+        "field": "예체능 > 시각디자인"
+      },
+      {
+        "university": "조선대",
+        "field": "예체능 > 체육"
+      },
+      {
+        "university": "조선대",
+        "field": "자연 > 체육"
+      },
+      {
+        "university": "충북대",
+        "field": "인문 > 철학"
+      },
+      {
+        "university": "충북대",
+        "field": "교육 > 국어교육"
+      },
+      {
+        "university": "충북대",
+        "field": "교육 > 체육"
+      },
+      {
+        "university": "건국대",
+        "field": "인문 > 철학"
+      },
+      {
+        "university": "건국대",
+        "field": "인문 > 체육"
+      },
+      {
+        "university": "동아대",
+        "field": "인문 > 철학"
+      },
+      {
+        "university": "동아대",
+        "field": "의약 > 의예"
+      },
+      {
+        "university": "동아대",
+        "field": "예체능 > 시각디자인"
+      },
+      {
+        "university": "동아대",
+        "field": "예체능 > 체육"
+      },
+      {
+        "university": "동아대",
+        "field": "사회 > 체육"
+      },
+      {
+        "university": "충남대",
+        "field": "인문 > 철학"
+      },
+      {
+        "university": "충남대",
+        "field": "사회 > 심리"
+      },
+      {
+        "university": "충남대",
+        "field": "교육 > 국어교육"
+      },
+      {
+        "university": "충남대",
+        "field": "교육 > 체육"
+      },
+      {
+        "university": "국립한밭대",
+        "field": "예체능 > 시각디자인"
+      },
+      {
+        "university": "국립한밭대",
+        "field": "교육 > 체육"
+      },
+      {
+        "university": "부산대",
+        "field": "사회 > 체육"
+      },
+      {
+        "university": "아주대",
+        "field": "인문 > 체육"
+      },
+      {
+        "university": "서울과기대",
+        "field": "인문 > 체육"
+      },
+      {
+        "university": "전주대",
+        "field": "사회 > 경영"
+      },
+      {
+        "university": "전주대",
+        "field": "사회 > 심리"
+      },
+      {
+        "university": "전주대",
+        "field": "교육 > 국어교육"
+      },
+      {
+        "university": "전주대",
+        "field": "자연 > 체육"
+      },
+      {
+        "university": "한국기술교육대",
+        "field": "사회 > 경영"
+      },
+      {
+        "university": "한국기술교육대",
+        "field": "공학 > 기계공학"
+      },
+      {
+        "university": "한국기술교육대",
+        "field": "교육 > 체육"
+      },
+      {
+        "university": "한국항공대",
+        "field": "인문 > 체육"
+      },
+      {
+        "university": "경북대",
+        "field": "교육 > 국어교육"
+      },
+      {
+        "university": "경북대",
+        "field": "사회 > 체육"
+      },
+      {
+        "university": "고려대",
+        "field": "인문 > 체육"
+      },
+      {
+        "university": "경희대",
+        "field": "인문 > 체육"
+      },
+      {
+        "university": "국민대",
+        "field": "인문 > 체육"
+      },
+      {
+        "university": "인하대",
+        "field": "인문 > 체육"
+      },
+      {
+        "university": "원광대",
+        "field": "자연 > 체육"
+      },
+      {
+        "university": "경성대",
+        "field": "사회 > 체육"
+      },
+      {
+        "university": "한양대",
+        "field": "인문 > 체육"
+      },
+      {
+        "university": "한국체대",
+        "field": "인문 > 체육"
+      },
+      {
+        "university": "성결대",
+        "field": "인문 > 체육"
+      },
+      {
+        "university": "협성대",
+        "field": "인문 > 체육"
+      },
+      {
+        "university": "한라대",
+        "field": "교육 > 체육"
+      },
+      {
+        "university": "광주교육대",
+        "field": "자연 > 체육"
+      }
+    ],
+    "id": 69
+  },
+  {
+    "name": "수학과제 탐구",
+    "subjectGroup": "수학",
+    "type": "융합",
+    "category": "학생선택(3학년)",
+    "baseCredit": 4,
+    "opCredit": 3,
+    "semesters": [],
+    "selectionGroup": "",
+    "targetGrades": [
+      "2026 신입생",
+      "2025 신입생"
+    ],
+    "description": "수학적 주제를 선정하여 탐구하고 보고서를 작성하는 융합 선택 과목입니다.",
+    "relatedMajors": "",
+    "relatedJobs": "",
+    "recommendingUniversities": [],
+    "id": 70
+  },
+  {
+    "name": "실용 통계",
+    "subjectGroup": "수학",
+    "type": "융합",
+    "category": "학생선택(3학년)",
+    "baseCredit": 4,
+    "opCredit": 3,
+    "semesters": [],
+    "selectionGroup": "",
+    "targetGrades": [
+      "2026 신입생",
+      "2025 신입생"
+    ],
+    "description": "실생활 데이터를 수집, 분석, 해석하는 통계적 사고력을 기르는 융합 선택 과목입니다.",
+    "relatedMajors": "",
+    "relatedJobs": "",
+    "recommendingUniversities": [],
+    "id": 71
+  },
+  {
+    "name": "심화 영어 독해와 작문",
+    "subjectGroup": "영어",
+    "type": "진로",
+    "category": "학생선택(3학년)",
+    "baseCredit": 4,
+    "opCredit": 3,
+    "semesters": [],
+    "selectionGroup": "",
+    "targetGrades": [
+      "2026 신입생",
+      "2025 신입생"
+    ],
+    "description": "학술적 영어 텍스트를 심층 독해하고, 논리적 영작문 능력을 기르는 진로 선택 과목입니다.",
+    "relatedMajors": "",
+    "relatedJobs": "",
+    "recommendingUniversities": [
+      {
+        "university": "강원대",
+        "field": "인문 > 영어영문"
+      },
+      {
+        "university": "강원대",
+        "field": "인문 > 철학"
+      },
+      {
+        "university": "강원대",
+        "field": "사회 > 경영"
+      },
+      {
+        "university": "강원대",
+        "field": "사회 > 심리"
+      },
+      {
+        "university": "강원대",
+        "field": "교육 > 수학교육"
+      },
+      {
+        "university": "강원대",
+        "field": "공학 > 기계공학"
+      },
+      {
+        "university": "강원대",
+        "field": "의약 > 의예"
+      },
+      {
+        "university": "강원대",
+        "field": "예체능 > 시각디자인"
+      },
+      {
+        "university": "광운대",
+        "field": "인문 > 영어영문"
+      },
+      {
+        "university": "광운대",
+        "field": "사회 > 경영"
+      },
+      {
+        "university": "광운대",
+        "field": "사회 > 심리"
+      },
+      {
+        "university": "덕성여대",
+        "field": "인문 > 영어영문"
+      },
+      {
+        "university": "동국대",
+        "field": "인문 > 영어영문"
+      },
+      {
+        "university": "동국대",
+        "field": "사회 > 경영"
+      },
+      {
+        "university": "숭실대",
+        "field": "인문 > 영어영문"
+      },
+      {
+        "university": "숭실대",
+        "field": "인문 > 철학"
+      },
+      {
+        "university": "영남대",
+        "field": "인문 > 영어영문"
+      },
+      {
+        "university": "영남대",
+        "field": "인문 > 철학"
+      },
+      {
+        "university": "영남대",
+        "field": "사회 > 경영"
+      },
+      {
+        "university": "영남대",
+        "field": "사회 > 심리"
+      },
+      {
+        "university": "영남대",
+        "field": "교육 > 국어교육"
+      },
+      {
+        "university": "전남대",
+        "field": "인문 > 영어영문"
+      },
+      {
+        "university": "전남대",
+        "field": "사회 > 심리"
+      },
+      {
+        "university": "전북대",
+        "field": "인문 > 영어영문"
+      },
+      {
+        "university": "조선대",
+        "field": "인문 > 영어영문"
+      },
+      {
+        "university": "조선대",
+        "field": "사회 > 심리"
+      },
+      {
+        "university": "충북대",
+        "field": "인문 > 영어영문"
+      },
+      {
+        "university": "충북대",
+        "field": "사회 > 경영"
+      },
+      {
+        "university": "충북대",
+        "field": "공학 > 기계공학"
+      },
+      {
+        "university": "충북대",
+        "field": "의약 > 의예"
+      },
+      {
+        "university": "건국대",
+        "field": "인문 > 철학"
+      },
+      {
+        "university": "동아대",
+        "field": "자연 > 생명과학"
+      },
+      {
+        "university": "동아대",
+        "field": "예체능 > 시각디자인"
+      },
+      {
+        "university": "동아대",
+        "field": "예체능 > 체육"
+      },
+      {
+        "university": "충남대",
+        "field": "인문 > 철학"
+      },
+      {
+        "university": "충남대",
+        "field": "사회 > 경영"
+      },
+      {
+        "university": "충남대",
+        "field": "사회 > 심리"
+      },
+      {
+        "university": "충남대",
+        "field": "교육 > 국어교육"
+      },
+      {
+        "university": "국립한밭대",
+        "field": "사회 > 경영"
+      },
+      {
+        "university": "국립한밭대",
+        "field": "예체능 > 시각디자인"
+      }
+    ],
+    "id": 72
+  },
+  {
+    "name": "세계 문화와 영어",
+    "subjectGroup": "영어",
+    "type": "융합",
+    "category": "학생선택(3학년)",
+    "baseCredit": 4,
+    "opCredit": 3,
+    "semesters": [],
+    "selectionGroup": "",
+    "targetGrades": [
+      "2026 신입생",
+      "2025 신입생"
+    ],
+    "description": "세계 각국의 문화를 영어로 탐구하고 이해하는 융합 선택 과목입니다.",
+    "relatedMajors": "",
+    "relatedJobs": "",
+    "recommendingUniversities": [
+      {
+        "university": "강원대",
+        "field": "인문 > 영어영문"
+      },
+      {
+        "university": "강원대",
+        "field": "인문 > 철학"
+      },
+      {
+        "university": "강원대",
+        "field": "사회 > 경영"
+      },
+      {
+        "university": "강원대",
+        "field": "사회 > 심리"
+      },
+      {
+        "university": "강원대",
+        "field": "교육 > 수학교육"
+      },
+      {
+        "university": "강원대",
+        "field": "공학 > 기계공학"
+      },
+      {
+        "university": "강원대",
+        "field": "의약 > 의예"
+      },
+      {
+        "university": "강원대",
+        "field": "예체능 > 시각디자인"
+      },
+      {
+        "university": "광운대",
+        "field": "인문 > 영어영문"
+      },
+      {
+        "university": "광운대",
+        "field": "사회 > 경영"
+      },
+      {
+        "university": "광운대",
+        "field": "사회 > 심리"
+      },
+      {
+        "university": "덕성여대",
+        "field": "인문 > 영어영문"
+      },
+      {
+        "university": "동국대",
+        "field": "인문 > 영어영문"
+      },
+      {
+        "university": "동국대",
+        "field": "사회 > 경영"
+      },
+      {
+        "university": "숭실대",
+        "field": "인문 > 영어영문"
+      },
+      {
+        "university": "숭실대",
+        "field": "인문 > 철학"
+      },
+      {
+        "university": "영남대",
+        "field": "인문 > 영어영문"
+      },
+      {
+        "university": "영남대",
+        "field": "인문 > 철학"
+      },
+      {
+        "university": "영남대",
+        "field": "사회 > 경영"
+      },
+      {
+        "university": "영남대",
+        "field": "사회 > 심리"
+      },
+      {
+        "university": "영남대",
+        "field": "교육 > 국어교육"
+      },
+      {
+        "university": "전남대",
+        "field": "인문 > 영어영문"
+      },
+      {
+        "university": "전남대",
+        "field": "사회 > 심리"
+      },
+      {
+        "university": "전북대",
+        "field": "인문 > 영어영문"
+      },
+      {
+        "university": "조선대",
+        "field": "인문 > 영어영문"
+      },
+      {
+        "university": "조선대",
+        "field": "사회 > 심리"
+      },
+      {
+        "university": "충북대",
+        "field": "인문 > 영어영문"
+      },
+      {
+        "university": "충북대",
+        "field": "사회 > 경영"
+      },
+      {
+        "university": "충북대",
+        "field": "공학 > 기계공학"
+      },
+      {
+        "university": "충북대",
+        "field": "의약 > 의예"
+      },
+      {
+        "university": "건국대",
+        "field": "인문 > 철학"
+      },
+      {
+        "university": "동아대",
+        "field": "자연 > 생명과학"
+      },
+      {
+        "university": "동아대",
+        "field": "예체능 > 시각디자인"
+      },
+      {
+        "university": "동아대",
+        "field": "예체능 > 체육"
+      },
+      {
+        "university": "충남대",
+        "field": "인문 > 철학"
+      },
+      {
+        "university": "충남대",
+        "field": "사회 > 경영"
+      },
+      {
+        "university": "충남대",
+        "field": "사회 > 심리"
+      },
+      {
+        "university": "충남대",
+        "field": "교육 > 국어교육"
+      },
+      {
+        "university": "국립한밭대",
+        "field": "사회 > 경영"
+      },
+      {
+        "university": "국립한밭대",
+        "field": "예체능 > 시각디자인"
+      }
+    ],
+    "id": 73
+  },
+  {
+    "name": "사회문제 탐구",
+    "subjectGroup": "사회",
+    "type": "융합",
+    "category": "학생선택(3학년)",
+    "baseCredit": 4,
+    "opCredit": 3,
+    "semesters": [],
+    "selectionGroup": "",
+    "targetGrades": [
+      "2026 신입생",
+      "2025 신입생"
+    ],
+    "description": "한국 사회의 다양한 문제를 탐구하고 해결 방안을 모색하는 융합 선택 과목입니다.",
+    "relatedMajors": "",
+    "relatedJobs": "",
+    "recommendingUniversities": [],
+    "id": 74
+  },
+  {
+    "name": "여행지리",
+    "subjectGroup": "사회",
+    "type": "융합",
+    "category": "학생선택(3학년)",
+    "baseCredit": 4,
+    "opCredit": 3,
+    "semesters": [],
+    "selectionGroup": "",
+    "targetGrades": [
+      "2026 신입생"
+    ],
+    "description": "여행이라는 주제를 통해 세계 각 지역의 지리적 특성을 탐구합니다.",
+    "relatedMajors": "",
+    "relatedJobs": "",
+    "recommendingUniversities": [
+      {
+        "university": "광운대",
+        "field": "사회 > 경영"
+      },
+      {
+        "university": "광운대",
+        "field": "자연 > 물리"
+      },
+      {
+        "university": "덕성여대",
+        "field": "의약 > 약학"
+      },
+      {
+        "university": "동국대",
+        "field": "자연 > 생명과학"
+      },
+      {
+        "university": "동국대",
+        "field": "의약 > 약학"
+      },
+      {
+        "university": "숭실대",
+        "field": "자연 > 생명과학"
+      },
+      {
+        "university": "영남대",
+        "field": "자연 > 생명과학"
+      },
+      {
+        "university": "영남대",
+        "field": "자연 > 물리"
+      },
+      {
+        "university": "영남대",
+        "field": "의약 > 약학"
+      },
+      {
+        "university": "영남대",
+        "field": "의약 > 의예"
+      },
+      {
+        "university": "전남대",
+        "field": "공학 > 기계공학"
+      },
+      {
+        "university": "전남대",
+        "field": "의약 > 의예"
+      },
+      {
+        "university": "건국대",
+        "field": "의약 > 의예"
+      },
+      {
+        "university": "충남대",
+        "field": "공학 > 기계공학"
+      },
+      {
+        "university": "충남대",
+        "field": "의약 > 의예"
+      },
+      {
+        "university": "서울과기대",
+        "field": "자연 > 생명과학"
+      },
+      {
+        "university": "가톨릭대",
+        "field": "의약 > 약학"
+      },
+      {
+        "university": "가톨릭대",
+        "field": "의약 > 의예"
+      },
+      {
+        "university": "경희대",
+        "field": "자연 > 물리"
+      },
+      {
+        "university": "원광대",
+        "field": "공학 > 기계공학"
+      },
+      {
+        "university": "원광대",
+        "field": "의약 > 의예"
+      }
+    ],
+    "id": 75
+  },
+  {
+    "name": "역사로 탐구하는 현대 세계",
+    "subjectGroup": "사회",
+    "type": "융합",
+    "category": "학생선택(3학년)",
+    "baseCredit": 4,
+    "opCredit": 3,
+    "semesters": [],
+    "selectionGroup": "",
+    "targetGrades": [
+      "2026 신입생",
+      "2025 신입생"
+    ],
+    "description": "현대 세계의 주요 사건을 역사적 관점에서 탐구하는 융합 선택 과목입니다.",
+    "relatedMajors": "",
+    "relatedJobs": "",
+    "recommendingUniversities": [
+      {
+        "university": "강원대",
+        "field": "교육 > 국어교육"
+      },
+      {
+        "university": "광운대",
+        "field": "자연 > 물리"
+      },
+      {
+        "university": "덕성여대",
+        "field": "의약 > 약학"
+      },
+      {
+        "university": "동국대",
+        "field": "인문 > 영어영문"
+      },
+      {
+        "university": "동국대",
+        "field": "자연 > 생명과학"
+      },
+      {
+        "university": "동국대",
+        "field": "자연 > 물리"
+      },
+      {
+        "university": "동국대",
+        "field": "의약 > 약학"
+      },
+      {
+        "university": "서울시립대",
+        "field": "자연 > 물리"
+      },
+      {
+        "university": "숭실대",
+        "field": "자연 > 물리"
+      },
+      {
+        "university": "영남대",
+        "field": "사회 > 심리"
+      },
+      {
+        "university": "영남대",
+        "field": "자연 > 생명과학"
+      },
+      {
+        "university": "영남대",
+        "field": "자연 > 물리"
+      },
+      {
+        "university": "영남대",
+        "field": "공학 > 기계공학"
+      },
+      {
+        "university": "영남대",
+        "field": "의약 > 약학"
+      },
+      {
+        "university": "영남대",
+        "field": "의약 > 의예"
+      },
+      {
+        "university": "전남대",
+        "field": "공학 > 기계공학"
+      },
+      {
+        "university": "동아대",
+        "field": "예체능 > 체육"
+      },
+      {
+        "university": "충남대",
+        "field": "공학 > 기계공학"
+      },
+      {
+        "university": "충남대",
+        "field": "의약 > 의예"
+      },
+      {
+        "university": "아주대",
+        "field": "사회 > 경영"
+      },
+      {
+        "university": "서울과기대",
+        "field": "자연 > 생명과학"
+      },
+      {
+        "university": "서울과기대",
+        "field": "공학 > 기계공학"
+      },
+      {
+        "university": "가톨릭대",
+        "field": "의약 > 약학"
+      },
+      {
+        "university": "가톨릭대",
+        "field": "의약 > 의예"
+      },
+      {
+        "university": "경북대",
+        "field": "공학 > 기계공학"
+      },
+      {
+        "university": "경희대",
+        "field": "자연 > 물리"
+      },
+      {
+        "university": "경희대",
+        "field": "공학 > 기계공학"
+      },
+      {
+        "university": "원광대",
+        "field": "공학 > 기계공학"
+      },
+      {
+        "university": "원광대",
+        "field": "의약 > 의예"
+      }
+    ],
+    "id": 76
+  },
+  {
+    "name": "윤리문제 탐구",
+    "subjectGroup": "사회",
+    "type": "융합",
+    "category": "학생선택(3학년)",
+    "baseCredit": 4,
+    "opCredit": 3,
+    "semesters": [],
+    "selectionGroup": "",
+    "targetGrades": [
+      "2026 신입생",
+      "2025 신입생"
+    ],
+    "description": "현대 사회의 다양한 윤리적 쟁점을 심층 탐구하는 융합 선택 과목입니다.",
+    "relatedMajors": "",
+    "relatedJobs": "",
+    "recommendingUniversities": [
+      {
+        "university": "강원대",
+        "field": "인문 > 철학"
+      },
+      {
+        "university": "광운대",
+        "field": "인문 > 영어영문"
+      },
+      {
+        "university": "광운대",
+        "field": "사회 > 경영"
+      },
+      {
+        "university": "광운대",
+        "field": "사회 > 심리"
+      },
+      {
+        "university": "동국대",
+        "field": "인문 > 영어영문"
+      },
+      {
+        "university": "동국대",
+        "field": "인문 > 철학"
+      },
+      {
+        "university": "전남대",
+        "field": "인문 > 철학"
+      }
+    ],
+    "id": 77
+  },
+  {
+    "name": "과학의 역사와 문화",
+    "subjectGroup": "과학",
+    "type": "융합",
+    "category": "학생선택(3학년)",
+    "baseCredit": 4,
+    "opCredit": 3,
+    "semesters": [],
+    "selectionGroup": "",
+    "targetGrades": [
+      "2026 신입생"
+    ],
+    "description": "과학 발전의 역사와 사회·문화적 영향을 탐구하는 융합 선택 과목입니다.",
+    "relatedMajors": "",
+    "relatedJobs": "",
+    "recommendingUniversities": [],
+    "id": 78
+  },
+  {
+    "name": "기후변화와 환경생태",
+    "subjectGroup": "과학",
+    "type": "융합",
+    "category": "학생선택(3학년)",
+    "baseCredit": 4,
+    "opCredit": 3,
+    "semesters": [],
+    "selectionGroup": "",
+    "targetGrades": [
+      "2026 신입생",
+      "2025 신입생"
+    ],
+    "description": "기후변화가 환경과 생태계에 미치는 영향을 과학적으로 탐구합니다.",
+    "relatedMajors": "",
+    "relatedJobs": "",
+    "recommendingUniversities": [],
+    "id": 79
+  },
+  {
+    "name": "융합과학 탐구",
+    "subjectGroup": "과학",
+    "type": "융합",
+    "category": "학생선택(3학년)",
+    "baseCredit": 4,
+    "opCredit": 3,
+    "semesters": [],
+    "selectionGroup": "",
+    "targetGrades": [
+      "2026 신입생",
+      "2025 신입생"
+    ],
+    "description": "여러 과학 분야를 융합하여 실생활 문제를 탐구하는 융합 선택 과목입니다.",
+    "relatedMajors": "",
+    "relatedJobs": "",
+    "recommendingUniversities": [],
+    "id": 80
+  },
+  {
+    "name": "중국 문화",
+    "subjectGroup": "제2외국어/한문",
+    "type": "융합",
+    "category": "학생선택(3학년)",
+    "baseCredit": 4,
+    "opCredit": 3,
+    "semesters": [],
+    "selectionGroup": "",
+    "targetGrades": [
+      "2026 신입생",
+      "2025 신입생"
+    ],
+    "description": "중국의 사회, 문화, 역사를 탐구하는 융합 선택 과목입니다.",
+    "relatedMajors": "",
+    "relatedJobs": "",
+    "recommendingUniversities": [],
+    "id": 81
+  },
+  {
+    "name": "일본 문화",
+    "subjectGroup": "제2외국어/한문",
+    "type": "융합",
+    "category": "학생선택(3학년)",
+    "baseCredit": 4,
+    "opCredit": 3,
+    "semesters": [],
+    "selectionGroup": "",
+    "targetGrades": [
+      "2026 신입생",
+      "2025 신입생"
+    ],
+    "description": "일본의 사회, 문화, 역사를 탐구하는 융합 선택 과목입니다.",
+    "relatedMajors": "",
+    "relatedJobs": "",
+    "recommendingUniversities": [],
+    "id": 82
+  },
+  {
+    "name": "언어생활과 한자",
+    "subjectGroup": "제2외국어/한문",
+    "type": "융합",
+    "category": "학생선택(3학년)",
+    "baseCredit": 4,
+    "opCredit": 3,
+    "semesters": [],
+    "selectionGroup": "",
+    "targetGrades": [
+      "2026 신입생",
+      "2025 신입생"
+    ],
+    "description": "일상생활과 학습에서 활용하는 한자를 학습하는 융합 선택 과목입니다.",
+    "relatedMajors": "",
+    "relatedJobs": "",
+    "recommendingUniversities": [],
+    "id": 83
+  },
+  {
+    "name": "생애 설계와 자립",
+    "subjectGroup": "기술·가정",
+    "type": "융합",
+    "category": "학생선택(3학년)",
+    "baseCredit": 2,
+    "opCredit": 2,
+    "semesters": [
+      "1-1",
+      "3-2"
+    ],
+    "selectionGroup": "[택1]2",
+    "targetGrades": [
+      "2026 신입생",
+      "2025 신입생"
+    ],
+    "description": "진로 탐색과 생애 설계를 통해 자립 역량을 기르는 융합 선택 과목입니다.",
+    "relatedMajors": "",
+    "relatedJobs": "",
+    "recommendingUniversities": [],
+    "id": 84
+  },
+  {
+    "name": "생태와 환경",
+    "subjectGroup": "교양",
+    "type": "일반",
+    "category": "학생선택(3학년)",
+    "baseCredit": 3,
+    "opCredit": 2,
+    "semesters": [],
+    "selectionGroup": "",
+    "targetGrades": [
+      "2026 신입생",
+      "2025 신입생"
+    ],
+    "description": "생태계의 원리와 환경 문제를 이해하고 지속가능한 삶을 탐구합니다.",
+    "relatedMajors": "",
+    "relatedJobs": "",
+    "recommendingUniversities": [],
+    "id": 85
+  },
+  {
+    "name": "교육의 이해",
+    "subjectGroup": "교양",
+    "type": "진로",
+    "category": "학생선택(3학년)",
+    "baseCredit": 3,
+    "opCredit": 2,
+    "semesters": [],
+    "selectionGroup": "",
+    "targetGrades": [
+      "2026 신입생",
+      "2025 신입생"
+    ],
+    "description": "교육의 개념, 역사, 교육 현상을 이해하는 진로 선택 과목입니다.",
+    "relatedMajors": "",
+    "relatedJobs": "",
+    "recommendingUniversities": [],
+    "id": 86
+  },
+  {
+    "name": "보건",
+    "subjectGroup": "교양",
+    "type": "진로",
+    "category": "학생선택(3학년)",
+    "baseCredit": 3,
+    "opCredit": 2,
+    "semesters": [],
+    "selectionGroup": "",
+    "targetGrades": [
+      "2026 신입생",
+      "2025 신입생"
+    ],
+    "description": "건강 관리와 질병 예방, 응급 처치 등 보건 지식을 학습합니다.",
+    "relatedMajors": "",
+    "relatedJobs": "",
+    "recommendingUniversities": [],
+    "id": 87
+  },
+  {
+    "name": "인간과 심리",
+    "subjectGroup": "교양",
+    "type": "진로",
+    "category": "학생선택(3학년)",
+    "baseCredit": 3,
+    "opCredit": 2,
+    "semesters": [],
+    "selectionGroup": "",
+    "targetGrades": [
+      "2026 신입생",
+      "2025 신입생"
+    ],
+    "description": "인간 행동과 심리 현상의 원리를 탐구하는 진로 선택 과목입니다.",
+    "relatedMajors": "",
+    "relatedJobs": "",
+    "recommendingUniversities": [],
+    "id": 88
+  }
+]
